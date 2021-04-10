@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research.html
+  - /research-statement/
+  - /my-research/
+---
+
+{% assign research_statement = site.pages | where: "name", "research-statement.md" %}
+
+{% for post in research_statement %}
+  <h2>{{ post.title }}</h2>
+  {{ post.content }}
+{% endfor %}
+
