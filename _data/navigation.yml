@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
+  - title: "Research"
+    url: /research/
+  - title: "Writing"
+    url: /writing/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /vita/
+  - title: "Blog"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/
