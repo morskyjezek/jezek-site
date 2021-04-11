@@ -19,6 +19,7 @@ tags:
   - digital preservation
   - fixity
   - humanities data
+classes: wide
 ---
 
 This post begins a series about about working with humanities data. The focus is on grant data provided by the National Endowment for the Humanities (NEH). In this installment, I discuss how to find the data, then walk through an initial workflow to describe and preserve the data. I will explain how to provide basic metadata (provenance and description) about a dataset using the `BagIt` python library to establish fixity information about the data. This workflow follows some of the fundamental [digital collection management policies that are established by the Library of Congress](https://www.loc.gov/programs/digital-collections-management/about-this-program/).

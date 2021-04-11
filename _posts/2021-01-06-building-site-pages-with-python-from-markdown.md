@@ -16,6 +16,7 @@ tags:
   - python
   - data
   - data wrangling
+classes: wide
 ---
 
 I recently migrated this site from a custom-built application running on GoogleAppEngine to an easier-to-maintain site that is powered via Github pages. I've been interested in creating a site of static HTML pages powered by jekyll for a while now, but until GitHub added the possibility to automagically publish repositories to the web, the greater support for [jekyll](https://jekyllrb.com/) natively, and the growing use of templates like this ([academic-pages](https://github.com/academicpages/academicpages.github.io)), I was hesitant to make the move. 

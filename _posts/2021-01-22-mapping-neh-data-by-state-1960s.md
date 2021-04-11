@@ -18,6 +18,7 @@ tags:
   - neh 
   - geospatial
   - humanities data
+classes: wide
 ---
 
 This post continues with "Wrangling Humanities Data," which drafts a data curation project using publicly publicly-available grant data provided by the National Endowment for the Humanities (NEH). This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and uses some of the visualization tools provided by the geopandas library. 

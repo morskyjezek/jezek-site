@@ -4,7 +4,7 @@ date: 2021-01-19
 permalink: /posts/2021/cleaning-transforming-data/
 excerpt: 'This post continues the "Wrangling NEH Data" series. This installment cleans and transforms the original data to create a geospatial dataset.'
 header:
-  overlay_image: "/assets/iamges/binary-1280w.jpg"
+  overlay_image: "/assets/images/binary-1280w.jpg"
   overlay_filter: 0.3
   image_description: "Rows and columns of 0 and 1 with a blue background."
   caption: "Image by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
@@ -19,6 +19,7 @@ tags:
   - neh 
   - geospatial
   - humanities data
+classes: wide
 ---
 
 This post continues "Wrangling Humanities Data," a series that walks through the design of a data curation process using publicly-available grant data provided by the National Endowment for the Humanities (NEH). In this installment, I draw on some of the files, with which I [previously demonstrated the creation of an archival data package]({% post_url 2020-12-20-finding-describing-data %}), and explore the data, check on the quality and reliability of the data, and then use the data to create a geospatial dataset. The geospatial data will be the basis for a future post that will undertake more mapping activities based on the data. To do this analysis, I use the pandas data library, which is supported in a Python environment and Jupyter notebook.
