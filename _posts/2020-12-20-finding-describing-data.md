@@ -4,12 +4,12 @@ date: 2020-12-20
 permalink: /posts/2020/finding-describing-data/
 excerpt: 'This post begins a series that will walk through basic steps in a data preservation and analysis workflow. This step walks through the process of creating essential preservation metadata to transform a group of files into an archivable package. This is the first post in the "Wrangling NEH Data" series.'
 header:
-  overlay_image: "binary-1280w.jpg"
+  overlay_image: "/assets/images/binary-1280w.jpg"
   overlay_filter: 0.3
   image_description: "Rows and columns of 0 and 1 with a blue background."
   caption: "Photo by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
-  og_image: "binary-1280w.jpg"
-  teaser: "binary-th.jpg"
+  og_image: "/assets/images/binary-1280w.jpg"
+  teaser: "/assets/images/binary-th.jpg"
 categories:
   - mapping humanities
   - data curation

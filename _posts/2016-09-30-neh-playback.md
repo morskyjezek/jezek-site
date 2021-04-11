@@ -4,7 +4,7 @@ date: 2016-09-30
 excerpt: 'A condensed version of my introductory remarks at a panel of audio archives projects at the National Endowment for the Humanities “Play/back” symposium on audiovisual preservation, on September 30, 2016.'
 permalink: /posts/2016/neh-playback-introduction/
 header:
-  teaser: 'tape-red-th.png'
+  teaser: '/assets/images/tape-red-th.png'
 categories: 
   - archives
 tags:

@@ -4,12 +4,12 @@ date: 2021-01-19
 permalink: /posts/2021/cleaning-transforming-data/
 excerpt: 'This post continues the "Wrangling NEH Data" series. This installment cleans and transforms the original data to create a geospatial dataset.'
 header:
-  overlay_image: "binary-1280w.jpg"
+  overlay_image: "/assets/iamges/binary-1280w.jpg"
   overlay_filter: 0.3
   image_description: "Rows and columns of 0 and 1 with a blue background."
   caption: "Image by [Gerd Altmann](https://pixabay.com/illustrations/binary-digitization-null-one-pay-1377017/) on Pixabay"
-  og_image: "binary-1280w.jpg"
-  teaser: "binary-th.jpg"
+  og_image: "/assets/images/binary-1280w.jpg"
+  teaser: "/assets/images/binary-th.jpg"
 read_time: false
 categories:
   - mapping humanities
@@ -1991,7 +1991,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/output_75_0.png)
+![png](/assets/images/wrangling-humanities-data/output_75_0.png)
 
 
 The map is small, but this offers an initial data quality check, and I can see that there are a few points that don't look right. There may be some in Europe (or Canada?) and one that appears to be in the Pacific. It's possible that this is a grant to American Samoa or another US territory in the Pacific, but I want to find out. 
@@ -2180,7 +2180,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/output_83_0.png)
+![png](/assets/images/wrangling-humanities-data/output_83_0.png)
 
 
 There's still appear to be 3 very far to the east of North America... I can identify thes points by sorting the Longitude in descending order:
@@ -2544,7 +2544,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/output_99_0.png)
+![png](/assets/images/wrangling-humanities-data/output_99_0.png)
 
 
 At least all of the points appear to be in logical places now, even if there may be some underlying noise. This brings the data to a point that is clean enough to map! 
@@ -2953,7 +2953,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/output_107_0.png)
+![png](/assets/images/wrangling-humanities-data/output_107_0.png)
 
 
 # Exporting a clean dataset

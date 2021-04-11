@@ -3,8 +3,8 @@ title: 'Strategies for Arts & Humanities Federal Grants'
 date: 2020-08-12
 permalink: /posts/2020/strategies-arts-humanities-federal-grants/
 header:
-  og_image: coin-jar-th.jpg
-  teaser: coin-jar-th.jpg # Photo by <a href="https://unsplash.com/@f7photo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Longmire</a> on <a href="https://unsplash.com/s/photos/money?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+  og_image: /assets/images/coin-jar-th.jpg
+  teaser: /assets/images/coin-jar-th.jpg # Photo by <a href="https://unsplash.com/@f7photo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Longmire</a> on <a href="https://unsplash.com/s/photos/money?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 categories:
   - research funding
 tags:

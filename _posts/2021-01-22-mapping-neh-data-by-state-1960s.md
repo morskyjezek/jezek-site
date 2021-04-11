@@ -373,7 +373,7 @@ us_states.plot(figsize=(20,20))
 
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/mapping-by-state/output_13_1.png)
+![png](/assets/images/wrangling-humanities-data/mapping-by-state/output_13_1.png)
 
 
 The proportions look a bit strange with all of that whitespace on the right, but on a close inspection I can see at the far right that there are a few of the Aleutian Islands flowing across the dateline. See the small blue dots over to the right? Very small, but they are there! Other than that... pretty cool! This is what I wanted!
@@ -396,7 +396,7 @@ continental.plot(figsize=(30,20), color='#d1b26f')
 
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/mapping-by-state/output_15_1.png)
+![png](/assets/images/wrangling-humanities-data/mapping-by-state/output_15_1.png)
 
 
 That looks good! Note above that I used the geopandas function `.isin()` above to filter out any shapes that did not appear in the list using a boolean filter ("False"). 
@@ -420,7 +420,7 @@ hawaii.plot(figsize=(30,20), color='#d1b26f')
 
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/mapping-by-state/output_17_1.png)
+![png](/assets/images/wrangling-humanities-data/mapping-by-state/output_17_1.png)
 
 
 Yes, that looks like Hawaii!! And note that it's a great example of a "multipolygon" state :smile: 
@@ -455,7 +455,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/mapping-by-state/output_21_0.png)
+![png](/assets/images/wrangling-humanities-data/mapping-by-state/output_21_0.png)
 
 
 Woohoo! This is the first thing that really looks like a map! A clear, visually simple, graphic that combines the geographic shape information with the grant data from the NEH to show where the money went!
@@ -519,7 +519,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/mapping-by-state/output_24_0.png)
+![png](/assets/images/wrangling-humanities-data/mapping-by-state/output_24_0.png)
 
 
 The map looks a bit squashed top to bottom, but aside from that, this is a great start!
@@ -558,7 +558,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/mapping-by-state/output_27_0.png)
+![png](/assets/images/wrangling-humanities-data/mapping-by-state/output_27_0.png)
 
 
 And there we have it! A map of the continental US, with the location of each NEH grant recipient of the 1960s displayed! 

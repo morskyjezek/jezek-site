@@ -4,7 +4,7 @@ date: 2018-11-15
 excerpt: 'What paths might a career in ethnomusicology take? While teaching and research in academia are the most common, there are many varieties. This talk explored my own path and considers various ways that we might encourage greater "career diversity" in ethnomusicology.'
 permalink: /posts/2020/career-diversity-ethnomusicology/
 header:
-  teaser: "tape-red-th.png"
+  teaser: "/assets/images/tape-red-th.png"
 categories: 
   - ethnomusicology
 tags:
