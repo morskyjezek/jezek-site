@@ -246,7 +246,6 @@ collections:
     output: true 
     permalink: /:collection/:path/
   toolkits:
-    name: "Funder Toolkits"
     output: true 
     permalink: /:collection/:path/
 
