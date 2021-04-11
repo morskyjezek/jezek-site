@@ -4,13 +4,13 @@ date: 2021-02-27
 permalink: /posts/2021/data-cleaning-csv-with-regex/
 excerpt: 'Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain-text data.'
 header:
-  image: "code-colors-1280w.jpg" # this required to display custom twitter card image for the post, but does it override the hero image (overlay_image)?
-  overlay_image: "code-colors-1280w.jpg"
+  image: "/assets/images/code-colors-1280w.jpg" # this required to display custom twitter card image for the post, but does it override the hero image (overlay_image)?
+  overlay_image: "/assets/images/code-colors-1280w.jpg"
   overlay_filter: 0.3
   image_description: "An image displaying multicolored lines of code."
   caption: "Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/s/photos/code)"
-  teaser: "code-colors-th.jpg"
-  og_image: "code-colors-th.jpg"
+  teaser: "/assets/images/code-colors-th.jpg"
+  og_image: "/assets/images/code-colors-th.jpg"
 categories:
   - data curation
 tags:
@@ -30,7 +30,7 @@ Okay, let's get into text editors and regex!
 
 ## Using the text editor
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-editing.png "An image showing the visual display of a CSV file in the VSCode interface.")
+![png](/assets/images/wrangling-humanities-data/vscode-csv-editing.png "An image showing the visual display of a CSV file in the VSCode interface.")
 
 Displayed above is the CSV file, as it appears in VSCode, which I discuss in more detail below. Note that the rows are very easy to distinguish and individual fields as noted in the header row are color-coded, which makes the data somewhat easier to read in lower rows. Various extensions can be added to VSCode to aid in the processing of CSV files, which are available in the VSCode extension "marketplace" (note that most of the CSV extensions are free). In the above illustration, I am using the "[Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)" extension to make the "cells" more visible to a human reader - this makes each field in the line a different color, which is much easier to see than a tiny comma.
 
@@ -46,7 +46,7 @@ VS Code is full of handy keyboard shortcuts, and you can even create new ones! I
 
 Regular expressions are a useful set of pattern-searching techniques, which allow you to find very specific patterns within text. For example, have you ever searched in multiple sites and noticed that you want to find things with both British and American spellings? For example, all of the times where the word digitize appears, but you know that it might be spelled digitize or _digitise_? Regular expressions can help! In this case, if you have a search tool that can search with regular expressions, you could input the string `digiti[sz]e`, and it would be able to match either spelling. The regular expression syntax is complicated and can be quite powerful, but I am only going to go into a few specific search expressions in this post. If you're interested to learn more about regular expressions, or "regex" as they are often called, check out the [introduction from Library Carpentry](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/index.html), or search for one of the many cheatsheets available online, such as this [Regex cheat sheet from MIT](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf).
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/vscode-csv-find-replace.png "An image showing a detail from the VS Code interface: the find and replace popup window.")
+![Detail from the VS Code interface: the find and replace popup window.](/assets/images/wrangling-humanities-data/vscode-csv-find-replace.png "An image showing a detail from the VS Code interface: the find and replace popup window.")
 
 Many advanced text editors support the use of regular expressions, which can be used to conduct advanced searches. In VSCode, you can bring up the window by typing `Ctrl + F` (`Cmd + F` on MacOS) or opening the `Edit` pull-down menu and selecting `Find`. The find and replace console (above) appears at the upper right corner of the VSCode window, and you can activate (or deactivate) the option to use regular expressions in searches by selecting the button at the right end of the search input prompt (above, note that `.*` is highlighted).
 
@@ -82,7 +82,7 @@ Reviewing the remaining lines, I noticed that many of the lines were not blank, 
 ^[\s]{6}.*\n(?!^[0-9])
 ```
 
-![png]({{ site.url }}{{ site.baseurl }}/images/wrangling-humanities-data/regex-6-blanks-not-preceeding-numeral-at-beginning-of-line.png "A visualization that provides a visual process diagram of how the regular expression is matched.") 
+![png](/assets/images/wrangling-humanities-data/regex-6-blanks-not-preceeding-numeral-at-beginning-of-line.png "A visualization that provides a visual process diagram of how the regular expression is matched.") 
 
 This is how [regexper visualizes](https://regexper.com/#%5E%5B%5Cs%5D%7B6%7D.*%5Cn%28%3F!%5E%5B0-9%5D%29) the match.
 
