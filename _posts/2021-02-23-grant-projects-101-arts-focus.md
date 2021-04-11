@@ -4,7 +4,7 @@ date: 2021-02-23
 permalink: /posts/2021/grant-projects-101-arts-focus/
 header:
   og_image: '/assets/images/coin-jar-th.jpg'
-  teaser: 'coin-jar-th.jpg' # Photo by <a href="https://unsplash.com/@f7photo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Longmire</a> on <a href="https://unsplash.com/s/photos/money?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+  teaser: '/assets/images/coin-jar-th.jpg' # Photo by <a href="https://unsplash.com/@f7photo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Longmire</a> on <a href="https://unsplash.com/s/photos/money?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 categories:
   - research funding
 tags:
