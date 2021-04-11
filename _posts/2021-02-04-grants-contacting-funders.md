@@ -4,7 +4,7 @@ date: 2021-02-04
 permalink: /posts/2021/grants-contacting-funders/
 excerpt: 'Speaking with a funder can be an effective way to see how your work best fits with current opportunities and priorities. This post offers pointers for how to initiate a conversation.'
 header:
-  overlay_image: "meeting-1280w.jpg"
+  overlay_image: "/assets/images/meeting-1280w.jpg"
   overlay_filter: 0.3
   image_description: "Two people smiling and talking to each other."
   caption: "Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on Unsplash"
