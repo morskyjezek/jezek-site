@@ -17,7 +17,7 @@ tags:
 
 Researchers in the arts and humanities often seek support for their work through fellowships and other awards that support single investigators. But don't forget to look beyond those programs when seeking funding!<!-- more --> The single-investigator approach to funding is supported through programs like the National Endowment for the Humanities (NEH) [Fellowships](https://www.neh.gov/grants/research/fellowships), and by the National Endowment for the Arts (NEA) [creative writing support](https://www.arts.gov/grants/creative-writing-fellowships). In fact, in some cases these awards are synonymous with grants: I’ve had many conversations with people who talk about "getting an NEH," in reference to someone receiving a fellowship award from the NEH.
 
-![Distribution of funding across NEH grantmaking divisions and offices in fiscal year 2017.](/assets/images/neh-fy17-funding.png)
+![Distribution of funding across NEH grantmaking divisions and offices in fiscal year 2017.](/assets/images/neh-fy17-funding.png "Image of pie chart illustrating distribution of funding across NEH grantmaking divisions and offices in fiscal year 2017.")
 
 But look at the chart above: notice that only 13% of the funds that the NEH awards annually go toward "Research," which is the part of NEH that funds individual fellowships! When I talk with researchers about pursuing external support for work in the arts and humanities, I often start by explaining that even though these sorts of awards receive a lot of attention, they actually comprise only a small portion of the funds that either of these federal funders awards. In fact, a plurality of the funding (over 40%) goes toward large projects in preservation, public programs, and education. 
 
