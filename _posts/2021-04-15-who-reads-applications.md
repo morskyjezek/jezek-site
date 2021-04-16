@@ -35,6 +35,6 @@ Federal funders frequently seek peer reviewers. The opportunity to volunteer as 
 * National Endowment for the Humanities, "[Panelist Sign-Up Form](https://securegrants.neh.gov/signup/)"
 * National Endowment for the Arts, "[Volunteer to be a Panelist](https://www.arts.gov/form/volunteer-to-be-a-national-endowment-for-the-arts-panelist)"
 
-o get an idea of the general types of readers a particular funder may recruit, look at annual reports or other publications from the funder. Most applications to federal agencies are evaluated by federal advisory panels, which may be listed in agency reports, the Federal Register, or in the [federal advisory committee database](https://www.facadatabase.gov/FACA/apex/FACAPublicSearch). 
+To get an idea of the general types of readers a particular funder may recruit, look at annual reports or other publications from the funder. Most applications to federal agencies are evaluated by federal advisory panels, which may be listed in agency reports, the Federal Register, or in the [federal advisory committee database](https://www.facadatabase.gov/FACA/apex/FACAPublicSearch). 
 
 Knowing more about who will read your application is a great way to be involved in the research process and raise your understanding of the funding landscape.
