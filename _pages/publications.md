@@ -102,7 +102,7 @@ as_of_date: 2020-07-10
 
 <h3>2018</h3>
 <ul>
-    <li>Panelist, &ldquo;Ethnomusicology and Career Diversity,&rdquo; Annual Meeting of the Society for Ethnomusicology, Albuquerque, New Mexico. (<a href="https://goo.gl/kS83q9">presentation slides</a>)</li>
+    <li>Panelist, &ldquo;Ethnomusicology and Career Diversity,&rdquo; Annual Meeting of the Society for Ethnomusicology, Albuquerque, New Mexico. (<a href="https://goo.gl/kS83q9">presentation slides</a>, <a href="{% post_url 2018-11-15-ethnomusicology-career-diversity %}">presentation text</a>)</li>
     <li>&ldquo;Identifying Test Sets in Federal Web Archives.&rdquo; Ad-hoc lightning talk with Trevor Owens, iPres 2018 Conference, Boston, Massachusetts.</li>
     <li>&ldquo;Collaborating to Process a Web Archives Digital Backlog.&rdquo; Research forum platform presentation, Annual Meeting of the Society of American Archivists, Washington, DC. (<a href="{{ site.url }}{{ site.baseurl }}/assets/files/2018-SAA-LC-WebArchives-Backlog.pdf">presentation slides</a>, <a href="https://www2.archivists.org/am2018/research-forum-2018/agenda">link to forum proceedings</a>)</li>
     <li>&ldquo;Messages Sent, and Received? Assessing Accountability and Its Limits through U.S. Federal Records Email Policy.&rdquo; Co-authored with Ricardo Punzalan and David Wallace. ICHORA-8: International Conference on the History of Records and Archives 2018, &ldquo;Archives in a Changing Climate,&rdquo; Melbourne, Australia. (<a href="https://goo.gl/MCpgrL">presentation slides</a>)</li>
