@@ -1,7 +1,7 @@
 ---
 title: 'Research Grants 101 for Arts'
 date: 2021-02-23
-as_of_date: 2021-05-02
+last_modified_at: 2021-05-02
 permalink: /posts/2021/grant-projects-101-arts-focus/
 header:
   og_image: '/assets/images/coin-jar-th.jpg'
