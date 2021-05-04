@@ -1,6 +1,7 @@
 ---
 title: 'Research Grants 101 for Arts'
 date: 2021-02-23
+last_modified_at: 2021-05-02
 permalink: /posts/2021/grant-projects-101-arts-focus/
 header:
   og_image: '/assets/images/coin-jar-th.jpg'
@@ -36,7 +37,7 @@ Finally, I discussed some tipcs about how to look at a specific funding opportun
 * From the guidelines, you can glean specific bits of information, such as:
   * The criteria that will be used to evaluate or "review" a proposal. 
   * How much you can ask for, and any things that you cannot ask for in that program.
-  * What is the application due? 
+  * When is the application due? 
   * How are applications and supplementary materials submitted? 
   * Are there any eligibility requirements that you need to meet before the application is due? 
   * Are there additional resources available, such as sample applications, FAQs, information resources from the funder, and can you ask for more information or feedback? 
