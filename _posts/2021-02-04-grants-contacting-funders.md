@@ -1,6 +1,7 @@
 ---
 title: 'When Should You Reach out to a Funder?'
 date: 2021-02-04
+last_modified_at: 2021-05-03
 permalink: /posts/2021/grants-contacting-funders/
 excerpt: 'Speaking with a funder can be an effective way to see how your work best fits with current opportunities and priorities. This post offers pointers for how to initiate a conversation.'
 header:
@@ -46,5 +47,6 @@ Every interaction with a funder, as Holly Falk-Krzesinski, PhD, puts it, is a ch
 There are many resources on related topics. Here's a few additional pieces of advice: 
 * The Foundation Center offers advice in its knowledge base specifically geared toward [reaching out to program officers at foundations](https://learning.candid.org/resources/knowledge-base/approaching-foundations/). 
 * Christie George offers "[Six Rules for Reaching Out to Funders](https://medium.com/new-media-venture/six-rules-for-reaching-out-to-funders-775306917998)." 
+* Beth Kiely (University of Texas at Dallas) offers some specific suggestions on how to construct your email in "[How to Contact Program Officers](https://research.utdallas.edu/blog/how-to-contact-program-officers)."
 
 For more of my advice on pursuing grant funding, check out the ["Research Funding" category](/categories/#research-funding).
