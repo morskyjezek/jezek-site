@@ -18,4 +18,5 @@ Here are the workshops I've taught:
 * [2020 workshop at Clemson University](https://shlake.github.io/2020-12-01-Clemson-online-NNLM/)
 * [2020 workshop at American University](https://annajiat.github.io/2020-11-09-american-online/) (software carpentry)
 * [2019 workshop at the Library of Congress](https://morskyjezek.github.io/2019-09-24-libraryofcongress/)
+* [2019 workshop at the Smithsonian Institution](https://smithsonianworkshops.github.io/2019-08-15-castle/) (participated as a helper in this data carpentry workshop)
 * [2018 workshop at the Library of Congress](https://libcce.github.io/2018-09-18-LC/) (instructor in training)
