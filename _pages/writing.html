@@ -11,43 +11,57 @@ classes: wide
 ---
 
 <hr />
+<h2 id="writing-by-type">Writing by Type</h2>
+<ul class="taxonomy__index">
+  <li><a href="#articles">Articles</a></li>
+  <li><a href="#public-writing">Public Writing</a></li>
+  <li><a href="#essays">Essays</a></li>
+</ul>
+
 <!-- list of publications -->
+<section name="publications">
+  {% assign publications_content = site.pages | where: "title", "Publications" %}
 
-{% assign publications_content = site.pages | where: "title", "Publications" %}
+  {% for post in publications_content %}
+    {{ post.content }}
+  {% endfor %}
+  <a href="#writing-by-type" class="back-to-top">Back to Top ↑</a>
+</section>
 
-{% for post in publications_content %}
-  {{ post.content }}
-{% endfor %}
+<section name="publicwriting"><!-- public writing list -->
+  <h1 id="public-writing">Public Writing</h1>
+  <hr />
+  {% assign public_writing_list = site.pages | where: "title", "Public Writing" %}
 
-<!-- public writing list -->
-<h1 id="public-writing">Public Writing</h1>
-<hr />
-{% assign public_writing_list = site.pages | where: "title", "Public Writing" %}
+  {% for post in public_writing_list %}
+    {{ post.content }}
+  {% endfor %}
+  <a href="#writing-by-type" class="back-to-top">Back to Top ↑</a>
+</section>
 
-{% for post in public_writing_list %}
-  {{ post.content }}
-{% endfor %}
-
+<section name="short-pieces">
 <!-- list of posts: humanities data, research funding -->
 <h1 id="essays">Essays</h1>
 <hr />
 
-<h2>On Data in Humanities Work</h2>
-<p>These posts explore some of the tools and issues that may be encountered while working with humanities data.</p>
+  <h2>On Data in Humanities Work</h2>
+  <p>These posts explore tools and issues related to working with humanities data.</p>
 
-{% assign hums_data_posts = site.posts | where: "tags", "humanities data" %}
-<ul>
-{% for post in hums_data_posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%e %B %Y" | lstrip }})</li>
-{% endfor %}
-</ul>
+  {% assign hums_data_posts = site.posts | where: "tags", "humanities data" %}
+  <ul>
+  {% for post in hums_data_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%e %B %Y" | lstrip }})</li>
+  {% endfor %}
+  </ul>
 
-<h2>On Research Funding</h2>
-<p>These posts from my blog offer insights for researchers, artists, and performers who may be seeking grants. These articles are for general audiences, although there is an emphasis on those who are approach such funding opportunities from the perspective of university researchers or community members.</p>
+  <h2>On Research Funding</h2>
+  <p>These posts from my blog offer insights for researchers, artists, and performers who may be seeking grants. These articles are for general audiences, although there is an emphasis on those who are approach such funding opportunities from the perspective of university researchers or community members.</p>
 
-{% assign funding_posts = site.posts | where: "categories", "research funding" %}
-<ul>
-{% for post in funding_posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%e %B %Y" | lstrip }})</li>
-{% endfor %}
-</ul>
+  {% assign funding_posts = site.posts | where: "categories", "research funding" %}
+  <ul>
+  {% for post in funding_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%e %B %Y" | lstrip }})</li>
+  {% endfor %}
+  </ul>
+<a href="#writing-by-type" class="back-to-top">Back to Top ↑</a>
+</section>
