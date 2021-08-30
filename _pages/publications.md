@@ -21,6 +21,10 @@ as_of_date: 2020-07-10
 ## Articles
 
   <ul>
+          <li><div itemscope itemtype="http://schema.org/ScholarlyArticle"><div itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"></div><meta itemprop="headline" content="Building Policy &amp; Capacity: Launching the U.S. Library of Congress Digital Collections Management Compendium">&ldquo;<span itemprop="name">Building Policy & Capacity: Launching the U.S. Library of Congress Digital Collections Management Compendium</span>.&rdquo; Co-authored with Trevor Owens, Kristy Darby, Pedro Gonzalez-Fernandez, and Camille Salas. In
+          <em><span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><span itemprop="name">Proceedings of iPres2021</span></span></em> <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume"><span itemprop="VolumeNumber"></span></span> (<span itemprop="locationCreated">Beijing, China</span> and online, <span itemprop="datePublished" datetime="2021">2021</span>).
+          (<a href="" class="" itemprop="url">link forthcoming</a>)</div></li>
+
           <li><div itemscope itemtype="http://schema.org/ScholarlyArticle"><div itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Jesse Johnston"></div><meta itemprop="headline" content="Archivists as Peers in Digital Public History">&ldquo;<span itemprop="name">Archivists as Peers in Digital Public History</span>.&rdquo; Chapter co-authored with Trevor Owens in <em>Handbook of Digital Public History</em>, ed. Serge Noiret and Mark Tebeau. (Berlin and Boston: De Gruyter Oldenbourg). 
           <em><span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><span itemprop="name"></span></span></em> <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume"><span itemprop="VolumeNumber"></span></span> (<span itemprop="datePublished" datetime="2020">2021</span>).
           (<a href="https://osf.io/8pgny/" class="" itemprop="url">link to preprint</a>)</div></li>
