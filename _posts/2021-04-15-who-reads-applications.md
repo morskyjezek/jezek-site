@@ -2,7 +2,7 @@
 title: 'Who Reads Applications?'
 date: 2021-04-15
 permalink: /posts/2021/who-reads-grant-applications/
-excerpt: 'Do you know who will read your proposal? This posts identifies some of the audiences who will read your proposal, and the questions they will ask.'
+excerpt: 'Who will read your grant or fellowship proposal? This posts identifies some of the audiences who read your application and the questions they will ask.'
 header:
   overlay_image: '/assets/images/meeting-1280w.jpg'
   overlay_filter: 0.3
