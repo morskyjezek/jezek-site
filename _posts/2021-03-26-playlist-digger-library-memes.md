@@ -1,7 +1,7 @@
 ---
 title: "Playlist: The Tiny Digger as Library Meme"
 date: 2021-03-26
-excerpt: 'The freighter stuck in the Suez Canal inspires a series of memes on Library Twitter.'
+excerpt: 'The freighter stuck in the Suez Canal inspired a series of memes on Library Twitter.'
 permalink: /posts/2021/playlist-digger-library-meme/
 categories:
   - archives
