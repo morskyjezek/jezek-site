@@ -37,4 +37,4 @@ Federal funders frequently seek peer reviewers. The opportunity to volunteer as 
 
 To get an idea of the general types of readers a particular funder may recruit, look at annual reports or other publications from the funder. Most applications to federal agencies are evaluated by federal advisory panels, which may be listed in agency reports, the Federal Register, or in the [federal advisory committee database](https://www.facadatabase.gov/FACA/apex/FACAPublicSearch).
 
-Knowing more about who will read your application is a great way to be involved in the research process and raise your understanding of the funding landscape.
+Knowing more about who will read your application is a great way to be actively involved in the funding process and to raise your understanding of the research landscape.
