@@ -16,6 +16,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>Posts by Tag</h2>
 <ul class="taxonomy__index">
   {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
@@ -30,7 +31,7 @@ author_profile: true
   {% endfor %}
 </ul>
 
-## Posts by Year 
+<h2>Posts by Year</h2> 
 <ul class="taxonomy__index">
     {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
     {% for year in postsInYear %}
