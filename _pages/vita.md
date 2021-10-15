@@ -61,7 +61,7 @@ redirect_from:
 ### University of Maryland
 
 * Implementing Digital Curation (INST 742, <a href="https://goo.gl/NuxV6y">2018 syllabus</a>, <a href="https://goo.gl/udK14A">2019 syllabus</a>)
-* Introduction to Digital Curation in Cultural Institutions (online course)
+* Introduction to Digital Curation in Cultural Institutions (INST 640, online course)
 * Digital Curation Basics (6-week online course for professional continuing education)
 * Digital Preservation (LBSC 784, <a href="https://goo.gl/qH2nI1">2015 syllabus</a>)        
 
