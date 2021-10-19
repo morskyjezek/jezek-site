@@ -1,5 +1,5 @@
 ---
-title: 'Research Grants 101 for Arts'
+title: 'Research Grants 101 for Arts Projects'
 date: 2021-02-23
 last_modified_at: 2021-05-02
 permalink: /posts/2021/grant-projects-101-arts-focus/
