@@ -21,7 +21,6 @@ classes: wide
 <!-- list of publications -->
 <section name="scholarly-publications">
   <h1 id="scholarly-peer-reviewed" class="archive__subtitle">Scholarly &amp; Peer-Reviewed Writing</h1>
-  <hr />
   {% assign publications_content = site.pages | where: "title", "Publications" %}
 
   {% for post in publications_content %}
@@ -31,8 +30,7 @@ classes: wide
 </section>
 
 <section name="publicwriting"><!-- public writing list -->
-  <h1 id="public-writing">Public Writing</h1>
-  <hr />
+  <h1 id="public-writing" class="archive__subtitle">Public Writing</h1>
   {% assign public_writing_list = site.pages | where: "title", "Public Writing" %}
 
   {% for post in public_writing_list %}
@@ -43,8 +41,7 @@ classes: wide
 
 <section name="short-pieces">
 <!-- list of posts: humanities data, research funding -->
-<h1 id="essays">Essays</h1>
-<hr />
+<h1 id="essays" class="archive__subtitle">Essays</h1>
 
   <h2>On Data in Humanities Work</h2>
   <p>These posts explore tools and issues related to working with humanities data.</p>
