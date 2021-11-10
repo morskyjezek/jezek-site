@@ -2,7 +2,7 @@
 title: 'Wrangling Humanities Data: Finding and Describing Data'
 date: 2020-12-20
 permalink: /posts/2020/finding-describing-data/
-excerpt: 'This post begins a series that will walk through basic steps in a data preservation and analysis workflow. This step walks through the process of creating essential preservation metadata to transform a group of files into an archivable package. This is the first post in the "Wrangling NEH Data" series.'
+excerpt: 'This post begins a series that demonstrates steps in a data preservation and analysis workflow. This step walks through the process of creating essential preservation metadata to transform a group of files into an archival information package.'
 header:
   overlay_image: "/assets/images/binary-1280w.jpg"
   overlay_filter: 0.3
@@ -22,7 +22,7 @@ tags:
 classes: wide
 ---
 
-This post begins a series about about working with humanities data. The focus is on grant data provided by the National Endowment for the Humanities (NEH). In this installment, I discuss how to find the data, then walk through an initial workflow to describe and preserve the data. I will explain how to provide basic metadata (provenance and description) about a dataset using the `BagIt` python library to establish fixity information about the data. This workflow follows some of the fundamental [digital collection management policies that are established by the Library of Congress](https://www.loc.gov/programs/digital-collections-management/about-this-program/).
+This post begins a [series](/categories/#mapping-humanities) about about working with humanities data. The focus is on grant data provided by the National Endowment for the Humanities (NEH). In this installment, I discuss how to find the data, then walk through an initial workflow to describe and preserve the data. I will explain how to provide basic metadata (provenance and description) about a dataset using the `BagIt` python library to establish fixity information about the data. This workflow follows some of the fundamental [digital collection management policies that are established by the Library of Congress](https://www.loc.gov/programs/digital-collections-management/about-this-program/).
 
 # Background
 
