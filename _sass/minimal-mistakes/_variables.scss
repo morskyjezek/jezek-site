@@ -16,7 +16,7 @@ $indent-var: 1.3em !default;
 // $serif: Georgia, Times, serif !default;
 // $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
 //  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$serif: "Merriweather", Georgia, Times, serif !default;
+$serif: "Libre Baskerville", Times, serif !default;
 $sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, 
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
@@ -33,7 +33,8 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
-$merriweather: Merriweather, serif !default;
+$baskerville: "Libre Baskerville", Times, serif !default;
+// $merriweather: Merriweather, serif !default;
 
 $global-font-family: $serif !default;
 $header-font-family: $spacegrotesk !default;
