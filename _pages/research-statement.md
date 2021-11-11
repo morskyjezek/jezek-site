@@ -2,8 +2,10 @@
 layout: archive
 title: "Research Statement"
 permalink: /research-sub1/
+sitemap: false
 excerpt: "This page describes my research interests and methods."
 author_profile: true
+as_of_date: 2021-08-10
 ---
 
 
@@ -12,3 +14,7 @@ I am a scholar and archivist who specializes in digital preservation, collection
 My research has been supported by a <span itemprop="award">Fulbright Fellowship (U.S. Department of State/International Institute of Education)</span>, a <span itemprop="award">Kohn Doctoral Fellowship (Masaryk University)</span>, a University of Michigan <span itemprop="award">Regents Fellowship<meta itemprop="dc:date" content="2002-2005"/></span>, a <span itemprop="award">Rackham Humanities Dissertation Writing Fellowship<meta itemprop="dc:date" content="2006"/></span>, and twice by <span itemprop="award">Foreign Language and Area Studies Fellowships (U.S. Department of Education)</span> from the Centers for Russian and East European Studies and Southeast Asian Studies. At Michigan, I also received the <span itemprop="award">Margaret Mann Award (<span itemprop="dc:date">2012</span>)</span> and the <span itemprop="award">Louise E. Cuyler Award (<span itemprop="dc:date">2008</span>)</span>. 
 
 My experiences and research credentials cross multiple research domains, as well as multiple types of organizations in the public and educational sectors. I have worked in research administration at the University of Michigan, supported scholarly research as a librarian at the <a href="http://www.loc.gov/">Library of Congress</a>, and have worked in the <a href="http://ischool.umd.edu/">iSchool at the University of Maryland</a>, the <a href="http://www.neh.gov/">National Endowment for the Humanities</a>, the <a href="http://folklife.si.edu/">Smithsonian Center for Folklife and Cultural Heritage</a>, and at the George Mason University program in public history. I served as a faculty member in ethnomusicology at Bowling Green State University, and in the <a href="http://www.casl.umd.umich.edu/">College of Arts, Sciences, and Letters</a> at the <a href="http://www.umd.umich.edu/">University of Michigan&ndash;Dearborn</a>. I also worked on the music library staff at the <span itemprop="affiliation">Interlochen Center for the Arts</span> and the University of Michigan Bands. I hold an MSI in archives from the <a href="http://www.umich.edu/">University of Michigan</a> <a href="http://si.umich.edu/">School of Information</a> and a PhD in Musicology from the Rackham Graduate School (U. of Michigan). 
+
+{% if page.as_of_date %}
+<blockquote>Revised {{ page.as_of_date | date: "%B %Y" }}</blockquote>
+{% endif %}
