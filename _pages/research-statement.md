@@ -13,7 +13,7 @@ I am a scholar and archivist who researches digital preservation, recordkeeping 
 {% capture support-text %}
 My work has been recognized by various awards and fellowships: 
 
-* National Endowment for the Humanities (NEH) Independent Study, Research, and Development, 2016&ndash;2017 
+* National Endowment for the Humanities (NEH) Independent Study, Research, and Development Fellowship, 2016&ndash;2017 
 * <span itemprop="award">Margaret Mann Award, University of Michigan School of Information, <span itemprop="dc:date">2012</span></span>
 * <span itemprop="award">Fulbright Fellowship, U.S. Department of State/International Institute of Education</span>, 2005&ndash;2006
 * <span itemprop="award">Kohn Doctoral Fellowship (Masaryk University)</span>, 2006
