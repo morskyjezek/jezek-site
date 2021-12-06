@@ -15,7 +15,7 @@ tags:
   - webinars
 ---
 
-Ever wondered how to apply for a federal grant to support your arts or humanities project? This post summarizes some of the current grant and fellowship programs for artists and humanists.<!-- more --> Although specific in many ways to federal grants offered by the "cultural" agencies of the U.S. federal government, the general approaches discussed here are also of use to anyone applying for grants. This post recaps my August 12 webinar, "Strategies for Federal Humanities and Arts Funding," which was presented for the University of Michigan's research development team.
+Do you want to know more about what federal programs might be best suited to support your arts or humanities research?<!-- more --> Have you ever wondered how to apply for a federal grant in the arts or humanities project? This post summarizes some of the current grant and fellowship programs for artists and humanists. Although specific in many ways to federal grants offered by the "cultural" agencies of the U.S. federal government&mdash;namely the NEH, the NEA, and IMLS&mdash;the general approaches discussed here will also be of use to anyone applying for grants. This post recaps my August 12 webinar, "Strategies for Federal Humanities and Arts Funding," which was presented for the University of Michigan's research development team.
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/38u7m9Zzrfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
