@@ -33,9 +33,9 @@ Next, I outlined a few strategies to establish the "significance" of any propose
 
 I selected the above programs based on what I presumed would be of potential interest to the webinar audience, which was made of faculty, staff, and students at the University of Michigan.
 
-## Understand the funder!
+## Understand the funder
 
-If you take away one main idea from the presentation, it is that you __must__ understand the funder, their priorities, and their processes when preparing any application for funding. A functional understanding of the agency structure and mission is essential. It is your responsibility as an applicant to convince the funder that your project advances their mission and the type of work that they have a mandate to support. Although you may be a researcher in the arts and humanities, or an affiliate working with projects in these or related fields, remember that it is always your job to present a proposal that convinces the funder you can forward their mission, not the other way around.
+If you take away one main idea from the presentation, it is that you __must__ understand the funder. A functional understanding of the agency structure and mission is essential. Beyond a general sense of knowing a funder's general area of focus, if you build an understanding of the funder's priorities, processes, and current programs, you can strengthen any application for funding. It is your responsibility as an applicant to convince the funder that your project advances their mission and the type of work that they have a mandate to support. Although you may be a researcher in the arts and humanities, or an affiliate working with projects in these or related fields, remember that it is always your job to present a proposal that convinces the funder you can forward their mission, not the other way around.
 
 > A functional understanding of a funder's structure and mission is essential. It is your responsibility as an applicant to convince the funder that your project advances their mission and the type of work that they have a mandate to support.
 
