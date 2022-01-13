@@ -16,10 +16,10 @@ My work has been recognized by various awards and fellowships:
 * National Endowment for the Humanities (NEH) Independent Study, Research, and Development Fellowship, 2016&ndash;2017 
 * <span itemprop="award">Margaret Mann Award, University of Michigan School of Information, <span itemprop="dc:date">2012</span></span>
 * <span itemprop="award">Louise E. Cuyler Award, University of Michigan Department of Musicology, <span itemprop="dc:date">2008</span></span>
+* <span itemprop="award">Rackham Humanities Dissertation Writing Fellowship<meta itemprop="dc:date" content="2008"/></span>, 2008 
 * <span itemprop="award">Fulbright Fellowship, U.S. Department of State/International Institute of Education</span>, 2005&ndash;2006
 * <span itemprop="award">Kohn Doctoral Fellowship (Masaryk University)</span>, 2006
 * University of Michigan <span itemprop="award">Regents Fellowship<meta itemprop="dc:date" content="2002-2005"/></span>, 2002&ndash;2005
-* <span itemprop="award">Rackham Humanities Dissertation Writing Fellowship<meta itemprop="dc:date" content="2008"/></span>, 2008 
 * <span itemprop="award">Foreign Language and Area Studies Fellowships (U.S. Department of Education)</span> from the Centers for Russian and East European Studies (2005) and Southeast Asian Studies (2012) 
 {% endcapture %}
 
