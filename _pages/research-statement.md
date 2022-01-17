@@ -11,7 +11,7 @@ as_of_date: 2021-11-10
 I am a scholar and archivist who researches digital preservation, recordkeeping and recordmaking, and the anthropology of music. My music research focuses on music cultures of Eastern Europe, Southeast Asia, and the United States centering on music learning and cognition, musical instruments, and digital and material cultures. In information studies, I have focused on user practices in sound archives, federal records management policy, and digital collections management. {% capture awards-summary %}I have received numerous awards for my work. In 2005, <a href="http://www.ns.umich.edu/index.html?Releases/2005/Nov05/r111405c" alt="archived from http://www.ns.umich.edu/index.html?Releases/2005/Nov05/r111405c">I received a <span itemprop="award">Fulbright Grant<meta itemprop="dc:date" content="2005"/></span></a> to complete my doctoral research; in 2008, <a href="https://web.archive.org/web/20170701155854/https://www.music.umich.edu/departments/musicology/CuylerPrizePastRecipients.htm" alt="archived from http://www.music.umich.edu/departments/musicology/CuylerPrizePastRecipients.htm">I received the <span itemprop="award"><meta itemprop="dc:date" content="2008">Louise Cuyler Award</span></a> from the UM Department of Musicology; and in 2012, <a href="https://web.archive.org/web/20191203145641/https://www.si.umich.edu/newsandevents/margaret-mann-award-recipients-1941-present" alt="http://www.si.umich.edu/newsandevents/press/umsi-2012-graduation-marks-75th-anniversary-margaret-mann-award">I received the <span itemprop="award"><meta itemprop="dc:date" content="2012">Margaret Mann Award</span></a> from the UM School of Information.{% endcapture %} {{ awards-summary }}
 
 {% capture support-text %}
-My work has been recognized by various awards and fellowships: 
+My work has been recognized by various awards and fellowships:
 
 * National Endowment for the Humanities (NEH) Independent Study, Research, and Development Fellowship, 2016&ndash;2017
 * <span itemprop="award">Margaret Mann Award, University of Michigan School of Information, <span itemprop="dc:date">2012</span></span>
@@ -29,11 +29,12 @@ My work has been recognized by various awards and fellowships:
 </div>
 
 ## Approaches
+
 {: no_toc}
 
-I employ a combination of interpretive and qualitative approaches in my work. 
+I employ a combination of interpretive and qualitative approaches in my work.
 As a researcher trained in ethnography and fieldwork, I emphasize the importance
-of gaining a detailed and grounded perspective based on local understandings, 
+of gaining a detailed and grounded perspective based on local understandings,
 whether this is an organizational setting like an archive or a more distributed
 domain, such as musical performance or policy space. In my work, I therefore use a variety of methods, including archival research, interviews, ethnographic fieldwork, and analysis of government documents and policies.
 
