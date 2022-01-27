@@ -26,7 +26,7 @@ name                : &name "Jesse A. Johnston"
 description         : &description "A portfolio site for Jesse A. Johnston. Jesse is a librarian and archivist, teacher, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
 url                 : https://www.jesseajohnston.net
 baseurl             : "/"
-repository          : # "morskyjezek/jezek-site"
+repository          : "morskyjezek/jezek-site"
 teaser              : "/assets/images/lined-neutral-th.png"
 words_per_minute    : 160
 future              : false # use `true` if you want to render posts published on future dates on main site
