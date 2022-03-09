@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About Me"
 author_profile: true
+classes: wide
 header:
   image: /assets/images/water-sand-1280w-short.jpg
   alt: "Image of a shallow, sandy-bottomed bay in Lake Superior with light playing over the rippled surface."
