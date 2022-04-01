@@ -2,7 +2,7 @@
 title: "Library Carpentry"
 collection: teaching
 type: "Professional workshops"
-permalink: /teaching/2020-12-01-library-carpentry
+permalink: /teaching/library-carpentry
 venue: "Library of Congress (and other locations)"
 date: 2020-12-01
 last_modified_at: 2021-10-07
