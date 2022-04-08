@@ -32,6 +32,7 @@ redirect_from:
 <!--
            <h3>Academic Service</h3>
              <ul>
+                <li>Society of American Archivists, Archival Educators Section, Chairperson, 2022&ndash;2023.</li>
                 <li>Society for Ethnomusicology, Council, 2018&ndash;2021.</li>
                 <li>Reviewer, Recordings @ Risk, Council of Library and Information Resources, 2019&ndash;present.</li>
                 <li>Society of American Archivists, Steering Committee for Recorded Sound Roundtable, 2017&ndash;2018.</li>
