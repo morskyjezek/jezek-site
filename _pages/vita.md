@@ -32,6 +32,7 @@ redirect_from:
 <!--
            <h3>Academic Service</h3>
              <ul>
+                <li>CarpentryCon@Home, <em>The Carpentries</em> Bi-Annual International Conference, Task Force Co-Chair and Web Subcommittee Liaison, 2022</li>
                 <li>Society of American Archivists, Archival Educators Section, Chairperson, 2022&ndash;2023.</li>
                 <li>Society for Ethnomusicology, Council, 2018&ndash;2021.</li>
                 <li>Reviewer, Recordings @ Risk, Council of Library and Information Resources, 2019&ndash;present.</li>
@@ -42,7 +43,7 @@ redirect_from:
 -->
 
 ## Professional Experience
-            
+
 * Associate Director for Information Strategy and Research Development at Mcubed & Senior Research Development Officer, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
 * Senior Librarian for Digital Collections, Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
 * Senior Program Officer, Division of Preservation and Access, National Endowment for the Humanities, 2013&ndash;2018
