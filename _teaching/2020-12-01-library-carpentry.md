@@ -9,7 +9,7 @@ last_modified_at: 2021-10-07
 location: "Washington, DC"
 ---
 
-I am a certified instructor in The Carpentries, a method of teaching that emphasizes technical skill-building and live-coding in an inclusive and accessible learning environment. I focus on [Library Carpentry](https://librarycarpentry.org), which presents an active curriculum for librarians to expand their digital skills.<!-- more --> I became involved with this teaching approach in 2018, while at the Library of Congress, and I have since taught workshops in-person and online, for learners at the Smithsonian, American University, Clemson University, and the U.S. Geological Survey. 
+I am a certified instructor in The Carpentries, a method of teaching that emphasizes technical skill-building and live-coding in an inclusive and accessible learning environment. I focus on [Library Carpentry](https://librarycarpentry.org), which presents an active curriculum for librarians to expand their digital skills.<!-- more --> I became involved with this teaching approach in 2018, while at the Library of Congress, and completed instructor certification in 2019. I have since taught workshops in-person and online, for learners at the Smithsonian, the U.S. Geological Survey, various public libraries, and elsewhere. 
 
 I teach all of the core tools and softwares that the Carpentries features, including regular expressions, best practices for organizing data in spreadsheets, basic and advanced usage of the Bash shell for research, metadata cleaning and transformation with Open Refine, and basics of data processing and visualization using Python (and the Pandas module). 
 
