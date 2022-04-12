@@ -1,8 +1,8 @@
 ---
 title: 'A Brief Life Update'
-date: 2022-04-11
+date: 2022-04-12
 permalink: /posts/2022/teaching-update/
-excerpt: 'I will be joining the faculty of the University of Michigan School of Information in fall 2022 to teach archives and digital curation courses.'
+excerpt: 'I am joining the faculty of the University of Michigan School of Information in fall 2022 to teach archives and digital curation.'
 header:
   overlay_image: '/assets/images/audience-seats-1280w.jpg'
   overlay_filter: 0.3
