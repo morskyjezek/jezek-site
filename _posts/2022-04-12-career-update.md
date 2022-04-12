@@ -1,5 +1,5 @@
 ---
-title: 'A Brief Life Update'
+title: 'A Brief Update: Back to Michigan, Back to Academia'
 date: 2022-04-12
 permalink: /posts/2022/teaching-update/
 excerpt: 'I am joining the faculty of the University of Michigan School of Information in fall 2022 to teach archives and digital curation.'
