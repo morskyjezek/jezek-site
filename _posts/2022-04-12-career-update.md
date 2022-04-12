@@ -11,10 +11,11 @@ header:
   og_image: '/assets/images/audience-seats-th.jpg'
   teaser: '/assets/images/audience-seats-th.jpg' 
 categories:
-  - teaching
+  - career
 tags:
   - umich
-  - career
+  - academia
+  - updates
 classes: wide
 ---
 
