@@ -44,7 +44,7 @@ redirect_from:
 
 ## Professional Experience
 
-* Associate Director for Information Strategy and Research Development at Mcubed & Senior Research Development Officer, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
+* Associate Director for Information Strategy and Research Development at Mcubed, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
 * Senior Librarian for Digital Collections, Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
 * Senior Program Officer, Division of Preservation and Access, National Endowment for the Humanities, 2013&ndash;2018
 * Archives Specialist, Center for Folklife and Cultural Heritage, Smithsonian Institution, 2012&ndash;2013
@@ -60,7 +60,7 @@ redirect_from:
 
 ### Library Carpentry
 
-* Certified instructor for [Library Carpentry](https://librarycarpentry.org/) by [The Carpentries](https://carpentries.org/), completed 2019. Organized and taught workshops at the Library of Congress, American University, Clemson University, and others.
+* Certified instructor for [Library Carpentry](https://librarycarpentry.org/) by [The Carpentries](https://carpentries.org/), completed 2019. Organized and taught workshops at the Library of Congress and elsewhere (see [list here]({% link _teaching/2020-12-01-library-carpentry.md %})).
 
 ### University of Maryland
 
