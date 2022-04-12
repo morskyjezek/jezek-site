@@ -24,16 +24,22 @@ I'll be joining the faculty of the [University of Michigan](https://www.umich.ed
 as a Clinical Assistant Professor with a teaching focus on digital curation,
 digital preservation, and archives. The appointment technically begins during the summer. 
 
-## New Teaching Opportunities
+## Old Academia, New Teaching Opportunities
 
 I'm looking forward to this exciting opportunity to be part of
-the cutting-edge curriculum, which is pioneering the development of 
+the cutting-edge curriculum at UMSI, which is pioneering the development of 
 digital skills for early-career librarians and archivists, among other
 information professionals. 
-While I have some concerns about value conflicts with the outdated, elitist culture academia, as well as the overheated prestige economy, 
-I outweighed these against
-the opportunity to facilitate learning for archivists and digital curators
-in training.
+While I have some concerns about returning to academia&mdash;particularly its elitist, medieval hierarchies and governance structures (some might say outdated),
+as well as its overheated (and under-acknowledged) [prestige economy](https://katinarogers.com/2018/11/15/the-problem-with-prestige/)&mdash;I decided these would be outweighed by
+the opportunity to facilitate training for archivists and digital curators. Those who know me may also recognize that I have had a longstanding
+relationship to the University of Michigan, which is not only a great university
+but also my alma mater.
+
 Teaching in a program like the one at UMSI is a chance to build out a digital archives and curation curriculum
 that is built on the cutting-edge technical and programming foundations
-that UMSI has built up over the last decade.
+that UMSI has built up over the last decade. That is something to which
+I have already contributed in my teaching
+at the University of Maryland, where I began building a curriculum of
+curation skills and tools for digital collections, and I look forward to
+expanding those learning opportunities in this new role. 
