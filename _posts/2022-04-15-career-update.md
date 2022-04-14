@@ -33,7 +33,7 @@ as well as the overheated (and under-acknowledged) [prestige economy](https://ka
 with my personal values&mdash;the opportunity to join UMSI specifically
 presents a chance to facilitate training for archivists and digital curators. 
 
-I have a longstanding relationship to the University of Michigan. 
+I have a longtime connection to the University of Michigan. 
 It is my alma mater, and notwithstanding its episodes of shameful and disappointing sexual misconduct (to put it diplomatically), 
 I remain optimistic (let's hope not too naive) that 
 the university as a social institution still has potential to
@@ -44,9 +44,17 @@ I hope that I can be part of the effort to move the U and its culture in better 
 I have a great regard for many of the positive social and cultural
 values that I see in the state universities of the Midwest, including educational breadth, increasing access to knowledge for more people,
 and sharing critical thought, culture, and language through teaching.
-The fundamental grounding of the state university in service also appeals to me,
-through the idea that the university is built to serve, educate, and inform
-the community of the state and **all** people in Michigan.
+Aside from the problematic settler colonialism behind the Land-Grant College Act,
+the fundamental focus of the state university on service to **all** people
+in the state appeals to me. That said, University of Michigan
+in fact predates the federal land grant legislation, having
+been envisioned through the 1817 Treaty of the Rapids with the Council of the Three Fires, which stipulated the university should educate the descendants
+of the land givers, the Anishinaabeg and Wyandot. Although the institution has not yet realized that
+potential (though [land acknowledgments](https://nai.msu.edu/about/guide-to-land-acknowledgements) have become more [frequent and respectful](https://lsa.umich.edu/eeb/about-us/land-acknowledgement-statement---actions.html)), I believe that we can build
+a more ethical institution that stewards and answers the call
+to serve, educate, and inform the community of 
+**all** people in Michigan.
+
 I remain an idealist at heart and will be working to serve the values that align with mine, which are very clearly at the heart of UMSI's work. 
 The school's current [mission](https://www.si.umich.edu/about-umsi/history-mission-and-goals/our-mission) is
 to "create and share knowledge so that people will use information&mdash;with technology&mdash;to build a better world." Among UMSI's list of core values, I hope I can particularly support: 
