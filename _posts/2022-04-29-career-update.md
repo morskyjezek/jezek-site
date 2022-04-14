@@ -1,6 +1,6 @@
 ---
 title: 'A Brief Update: Back to Michigan, Back to Academia'
-date: 2022-04-15
+date: 2022-04-29
 permalink: /posts/2022/teaching-update/
 excerpt: 'I am joining the faculty of the University of Michigan School of Information in fall 2022 to teach archives and digital curation.'
 header:
@@ -35,11 +35,10 @@ presents a chance to facilitate training for archivists and digital curators.
 
 I have a longtime connection to the University of Michigan. 
 It is my alma mater, and notwithstanding its episodes of shameful and disappointing sexual misconduct (to put it diplomatically), 
-I remain optimistic (let's hope not too naive) that 
+I remain optimistic (possibly naively) that 
 the university as a social institution still has potential to
-make the world better through education and knowledge production. 
-<!-- Of course, it's more complicated: The reputation of U-M has been tarnished by [leadership]() [missteps](), a seemingly [rampant]() and [ongoing]() culture of [sexual misconduct]() (to put it diplomatically), poor handling of the p ndemic, and a research apparatus that cares more about money than the creation of knowledge.--> 
-I hope that I can be part of the effort to move the U and its culture in better directions.
+make the world better through education and knowledge production. <!-- Of course, it's more complicated: The reputation of U-M has been tarnished by [leadership]() [missteps](), a seemingly [rampant]() and [ongoing]() culture of [sexual misconduct]() (to put it diplomatically), poor handling of the p ndemic, and a research apparatus that cares more about money than the creation of knowledge.--> 
+I hope to be part of the effort to move the U and its culture in ethical, egalitarian, and inclusive directions.
 
 I have a great regard for many of the positive social and cultural
 values that I see in the state universities of the Midwest, including educational breadth, increasing access to knowledge for more people,
