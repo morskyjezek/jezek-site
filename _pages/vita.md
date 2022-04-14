@@ -3,7 +3,7 @@ layout: archive
 title: "Vita"
 permalink: /vita/
 author_profile: true
-as_of_date: 2021-03-01
+as_of_date: 2022-04-11
 redirect_from:
   - /resume
   - /cv/
@@ -19,10 +19,32 @@ redirect_from:
 <!-- <li>M.A. in Musicology, University of Michigan, 2004</li> -->
 * Certificate in Czech Language and Slavic Studies, Masaryk University, 2003
 * B.Mus. in Euphonium Performance and Music History (with highest honors), University of Michigan, 2002
-            
+
+## Academic Positions
+
+* Clinical Assistant Professor, School of Information, University of Michigan, 2022&ndash;present
+* Adjunct Faculty, College of Information Studies, University of Maryland, 2015&ndash;2019
+* Adjunct Lecturer, Department of Art &amp; Art History, George Mason University, 2014, 2016
+* Instructor (Ethnomusicology), Department of Musicology, Composition, and Theory, Bowling Green State University, 2009&ndash;2010
+* Lecturer I (Music History), Department of Literature, Philosophy, and Arts, University of Michigan&ndash;Dearborn, 2008&ndash;2009
+* Graduate Student Instructor, Department of Musicology, University of Michigan, 2003&ndash;2005
+
+<!--
+           <h3>Academic Service</h3>
+             <ul>
+                <li>CarpentryCon@Home, <em>The Carpentries</em> Bi-Annual International Conference, Task Force Co-Chair and Web Subcommittee Liaison, 2022</li>
+                <li>Society of American Archivists, Archival Educators Section, Chairperson, 2022&ndash;2023.</li>
+                <li>Society for Ethnomusicology, Council, 2018&ndash;2021.</li>
+                <li>Reviewer, Recordings @ Risk, Council of Library and Information Resources, 2019&ndash;present.</li>
+                <li>Society of American Archivists, Steering Committee for Recorded Sound Roundtable, 2017&ndash;2018.</li>
+                <li>Society for Ethnomusicology, Board Nomination Committee, 2017.</li>
+                <li>Society of American Archivists, Steering Committee for Recorded Sound Roundtable, 2012&ndash;2013.</li>
+             </ul>
+-->
+
 ## Professional Experience
-            
-* Associate Director for Information Strategy and Research Development at Mcubed & Senior Research Development Officer, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
+
+* Associate Director for Information Strategy and Research Development at Mcubed, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
 * Senior Librarian for Digital Collections, Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
 * Senior Program Officer, Division of Preservation and Access, National Endowment for the Humanities, 2013&ndash;2018
 * Archives Specialist, Center for Folklife and Cultural Heritage, Smithsonian Institution, 2012&ndash;2013
@@ -34,29 +56,11 @@ redirect_from:
 * Personnel Manager &amp; Music Librarian, University of Michigan Bands, 1998&ndash;2002
 * Music Librarian, Interlochen Center for the Arts, summer 2000
 
-<!--
-           <h3>Academic Service</h3>
-             <ul>
-                <li>Society for Ethnomusicology, Council, 2018&ndash;2021.</li>
-                <li>Reviewer, Recordings @ Risk, Council of Library and Information Resources, 2019&ndash;present.</li>
-                <li>Society of American Archivists, Steering Committee for Recorded Sound Roundtable, 2017&ndash;2018.</li>
-                <li>Society for Ethnomusicology, Board Nomination Committee, 2017.</li>
-                <li>Society of American Archivists, Steering Committee for Recorded Sound Roundtable, 2012&ndash;2013.</li>
-             </ul>
--->
-## Academic Positions
-
-* Adjunct Faculty, College of Information Studies, University of Maryland, 2015&ndash;2019
-* Adjunct Lecturer, Department of Art &amp; Art History, George Mason University, 2014, 2016
-* Instructor (Ethnomusicology), Department of Musicology, Composition, and Theory, Bowling Green State University, 2009&ndash;2010
-* Lecturer I (Music History), Department of Literature, Philosophy, and Arts, University of Michigan&ndash;Dearborn, 2008&ndash;2009
-* Graduate Student Instructor, Department of Musicology, University of Michigan, 2003&ndash;2005
-
 ## Teaching
 
 ### Library Carpentry
 
-* Certified instructor for [Library Carpentry](https://librarycarpentry.org/) by [The Carpentries](https://carpentries.org/), completed 2019. Organized and taught workshops at the Library of Congress, American University, Clemson University, and others.
+* Certified instructor for [Library Carpentry](https://librarycarpentry.org/) by [The Carpentries](https://carpentries.org/), completed 2019. Organized and taught workshops at the Library of Congress and elsewhere (see [list here]({% link _teaching/2020-12-01-library-carpentry.md %})).
 
 ### University of Maryland
 
