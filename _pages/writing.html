@@ -53,10 +53,10 @@ classes: wide
   {% endfor %}
   </ul>
 
-  <h2>On Research Funding</h2>
+  <h2>On Research Enhancement & Funding</h2>
   <p>These posts offer insights for researchers, artists, and performers who may be seeking grants. While of general interest to anyone looking for funding, these essays emphasize federal grant opportunities that support academic research.</p>
 
-  {% assign funding_posts = site.posts | where: "categories", "research funding" %}
+  {% assign funding_posts = site.posts | where: "categories", "research enhancement" %}
   <ul>
   {% for post in funding_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%e %B %Y" | lstrip }})</li>

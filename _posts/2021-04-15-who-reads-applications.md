@@ -11,7 +11,7 @@ header:
   og_image: '/assets/images/meeting-th.jpg'
   teaser: '/assets/images/meeting-th.jpg'
 categories:
-  - research funding
+  - research enhancement
 tags:
   - grants
   - research

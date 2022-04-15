@@ -12,7 +12,7 @@ header:
   og_image: "/assets/images/meeting-1280w.jpg"
   teaser: "/assets/images/meeting-th.jpg" # Photo by Christina @ wocintechchat.com at unsplash
 categories:
-  - research funding
+  - research enhancement
 tags:
   - grants
   - research
@@ -49,4 +49,4 @@ There are many resources on related topics. Here's a few additional pieces of ad
 * Christie George offers "[Six Rules for Reaching Out to Funders](https://medium.com/new-media-venture/six-rules-for-reaching-out-to-funders-775306917998)." 
 * Beth Kiely (University of Texas at Dallas) offers some specific suggestions on how to construct your email in "[How to Contact Program Officers](https://research.utdallas.edu/blog/how-to-contact-program-officers)."
 
-For more of my advice on pursuing grant funding, check out the ["Research Funding" category](/categories/#research-funding).
+For more of my advice on pursuing grant funding, check out the ["Research Enhancement" category](/categories/#research-enhancement).
