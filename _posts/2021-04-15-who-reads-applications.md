@@ -6,10 +6,10 @@ excerpt: 'Who will read your grant or fellowship proposal? Read on to learn abou
 header:
   overlay_image: '/assets/images/meeting-1280w.jpg'
   overlay_filter: 0.3
-  image_description: 'Two people smiling and talking to each other.'
+  image_description: 'An image of two people sitting at a table, smiling, and talking to each other.'
   caption: 'Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on Unsplash'
-  og_image: '/assets/images/coin-jar-th.jpg'
-  teaser: '/assets/images/coin-jar-th.jpg' # Photo by <a href="https://unsplash.com/@f7photo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Longmire</a> on <a href="https://unsplash.com/s/photos/money?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+  og_image: '/assets/images/meeting-th.jpg'
+  teaser: '/assets/images/meeting-th.jpg'
 categories:
   - research funding
 tags:
