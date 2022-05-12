@@ -1,7 +1,7 @@
 ---
 title: 'A Brief Update: Back to Michigan, Back to Academia'
-date: 2022-04-29
-permalink: /posts/2022/teaching-update/
+date: 2022-05-12
+permalink: /posts/2022/career-update/
 excerpt: 'I am joining the faculty of the University of Michigan School of Information in fall 2022 to teach archives and digital curation.'
 header:
   overlay_image: '/assets/images/audience-seats-1280w.jpg'
@@ -19,7 +19,7 @@ tags:
   - career
 ---
 
-I'm happy to announce that next fall (September 2022),
+I'm happy to announce that in the fall (September 2022)
 I'll be joining the faculty of the [University of Michigan](https://www.umich.edu/) [School of Information](https://si.umich.edu/) (aka UMSI)
 as a Clinical Assistant Professor with a teaching focus on digital curation,
 digital preservation, and archives.  
@@ -35,16 +35,15 @@ with my personal values&mdash;the opportunity to join UMSI specifically
 presents a chance to facilitate training for archivists and digital curators. 
 
 I have a longtime connection to the University of Michigan. 
-It is my alma mater, and notwithstanding its episodes of shameful and disappointing sexual misconduct (to put it diplomatically), 
-I remain optimistic (possibly naively) that 
-the university as a social institution still has potential to
-make the world better through education and knowledge production. <!-- Of course, it's more complicated: The reputation of U-M has been tarnished by [leadership]() [missteps](), a seemingly [rampant]() and [ongoing]() culture of [sexual misconduct]() (to put it diplomatically), poor handling of the p ndemic, and a research apparatus that cares more about money than the creation of knowledge.--> 
+It is my alma mater, and notwithstanding the shameful and disappointing sexual misconduct (to put it diplomatically) in the news recently, 
+I remain optimistic that the university as a social institution still has potential to
+make the world better through education and knowledge production.  
 I hope to be part of the effort to move the U and its culture in ethical, egalitarian, and inclusive directions.
 
 I have a great regard for many of the positive social and cultural
 values that I see in the state universities of the Midwest, including educational breadth, increasing access to knowledge for more people,
-and sharing critical thought, culture, and language through teaching.
-Aside from the problematic settler colonialism behind the Land-Grant College Act,
+and sharing critical thought, culture, and knowledge through teaching.
+Aside from the problematic settler colonialism behind the Land-Grant College Acts,
 the fundamental focus of the state university on service to **all** people
 in the state appeals to me. That said, University of Michigan
 in fact predates the federal land grant legislation, having
@@ -67,12 +66,12 @@ to "create and share knowledge so that people will use information&mdash;with te
 - Passion and engagement
 - Diversity, equity, and inclusion
 
-Teaching in a program like the one at UMSI is a chance to build out a digital archives and curation curriculum
+Teaching in a program like the one at UMSI is a chance to create a digital archives and curation curriculum
 that allows students to build on the digital and technological foundations
-that UMSI has built up in its curriculum over the last decade,
+that UMSI has invested in through its curriculum over the last decade,
 and to apply those skills to work in archives, digital curation, libraries, and other cultural heritage spaces. 
 This type of curriculum development is something to which I have already contributed in my teaching
 at the University of Maryland, where I began building a curriculum of
-curation skills and tools for digital collections, my work at the 
-Library of Congress, where I began a [Library Carpentry](https://librarycarpentry.org/) series, 
-and I look forward to expanding those learning opportunities in this new role at UMSI. 
+curation skills and tools for digital collections, and in my work at the 
+Library of Congress, where I began a [Library Carpentry](https://librarycarpentry.org/) series.
+I look forward to expanding those learning opportunities in this new role at UMSI. 
