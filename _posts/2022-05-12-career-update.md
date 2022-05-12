@@ -37,7 +37,7 @@ presents a chance to facilitate training for archivists and digital curators.
 I have a longtime connection to the University of Michigan. 
 It is my alma mater, and notwithstanding the shameful and disappointing sexual misconduct (to put it diplomatically) in the news recently, 
 I remain optimistic that the university as a social institution still has potential to
-make the world better through education and knowledge production.  
+make the world better through education and knowledge production.
 I hope to be part of the effort to move the U and its culture in ethical, egalitarian, and inclusive directions.
 
 I have a great regard for many of the positive social and cultural
