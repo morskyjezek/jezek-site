@@ -21,7 +21,7 @@ tags:
 classes: wide
 ---
 
-This post continues with "Wrangling Humanities Data," which outlines a data curation project using publicly-available grant data provided by the National Endowment for the Humanities (NEH). This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and describes how to display
+This post continues with "Wrangling Humanities Data," a [series](/categories/#mapping-humanities) that outlines a data curation project using publicly-available grant data provided by the National Endowment for the Humanities (NEH). This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and describes how to display
 the data in an interactive map on the web. 
 
 *As in the [previous post]({% post_url 2021-01-22-mapping-neh-data-by-state-1960s %}), you can also download a [version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/3c-mapping-for-the-web.md) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
@@ -202,6 +202,3 @@ If the files are working correctly, you should see something like a map dotted w
 ## Resources
 
 * [Leaflet.js documentation](https://leafletjs.com/reference.html)
-* [Mapbox API reference](https://docs.mapbox.com/mapbox-gl-js/api/)
-* [Mapbox help on creating an access token](https://docs.mapbox.com/help/getting-started/access-tokens/)
-* [Mapbox reference for using static tiles](https://docs.mapbox.com/api/maps/static-tiles/)
