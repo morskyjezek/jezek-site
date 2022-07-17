@@ -15,6 +15,7 @@ categories:
   - data curation
 tags:
   - regex
+  - tools
   - humanities data
 ---
 

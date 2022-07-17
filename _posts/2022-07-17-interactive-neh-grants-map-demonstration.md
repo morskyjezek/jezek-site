@@ -14,22 +14,22 @@ categories:
   - mapping humanities
   - data curation
 tags:
-  - python
+  - tools
   - neh 
   - geospatial
   - humanities data
 classes: wide
 ---
 
-This post continues with "Wrangling Humanities Data," a [series](/categories/#mapping-humanities) that outlines a data curation project using publicly-available grant data provided by the National Endowment for the Humanities (NEH). This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and describes how to display
+This post continues with my occasional humanities data [series](tags/#humanities-data), a series that outlines a data curation project using publicly-available grant data provided by the National Endowment for the Humanities (NEH). This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and describes how to display
 the data in an interactive map on the web. 
 
 *As in the [previous post]({% post_url 2021-01-22-mapping-neh-data-by-state-1960s %}), you can also download a [version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/3c-mapping-for-the-web.md) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
 
 # Mapping the data on an interactive, web-based map
 
-The [previous posts](/tags/#humanities-data) walked through the process of using the geojson data to create
-geospatial visualizations by mapping points on geoshapes. 
+Although my previous essays have explored various data-related topics, this post continues a theme of [mapping humanities data](/categories/#mapping-humanities). Previous installments walked through the process of preserving, transforming, and visualizing
+this data, which is a list of grants awarded by the NEH during the 1960s (the agency's first five years). 
 This post demonstrates how to create interactive, web-friendly maps
 more familiar to everyday users. 
 The goal is to plot the grant information from the 1960s on a map background that allows zooming in and out,
