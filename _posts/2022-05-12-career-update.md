@@ -73,5 +73,5 @@ and to apply those skills to work in archives, digital curation, libraries, and 
 This type of curriculum development is something to which I have already contributed in my teaching
 at the University of Maryland, where I began building a curriculum of
 curation skills and tools for digital collections, and in my work at the 
-Library of Congress, where I began a [Library Carpentry](https://librarycarpentry.org/) series.
+Library of Congress, where I began a [Library Carpentry](https://librarycarpentry.org/) [series](https://blogs.loc.gov/thesignal/2018/11/library-carpentry/).
 I look forward to expanding those learning opportunities in this new role at UMSI. 
