@@ -1,9 +1,8 @@
-This post continues with my occasional 
-[humanities data
-series](/tags/#humanities-data),
-which outlines a humanities data curation project
+This is a post in my occasional 
+[humanities data curation series](/tags/#humanities-data),
+which outlines humanities data curation activities
 using publicly-available data on grants and awards made
-by the [National Endowment for the Humanities (NEH)](http://www.neh.gov).
+by the [National Endowment for the Humanities (NEH)](http://www.neh.gov). A [subset of the series](/categories/#mapping-humanities) focuses on mapping the data and creating geospatial data visualizations.
 
 For reference, here are the other esssays in the series:
 
