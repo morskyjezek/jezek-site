@@ -18,7 +18,6 @@ tags:
   - neh 
   - geospatial
   - humanities data
-classes: wide
 ---
 
 {% include toc_mapping_humanities_data.md %}
