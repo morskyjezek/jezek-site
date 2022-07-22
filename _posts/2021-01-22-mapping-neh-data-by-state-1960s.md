@@ -21,7 +21,7 @@ tags:
 classes: wide
 ---
 
-{% include intro_humanities_data_curation.md %}
+{% include toc_mapping_humanities_data.md %}
 
 *This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and uses some of the visualization tools provided by the geopandas librarywhich is supported in a Python environment and Jupyter notebook. You can download [a Jupyter Notebook version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/03a-mapping-by-state.ipynb) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
 

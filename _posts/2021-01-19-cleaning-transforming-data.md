@@ -22,7 +22,7 @@ tags:
 classes: wide
 ---
 
-{% include intro_humanities_data_curation.md %}
+{% include toc_mapping_humanities_data.md %}
 
 *This installment draws on some of the files, with which I [previously demonstrated the creation of an archival data package]({% post_url 2020-12-20-finding-describing-data %}), and explore the data, check on the quality and reliability of the data, and then use the data to create a geospatial dataset. The geospatial data will be the basis for a future post that will undertake more mapping activities based on the data. To do this analysis, I use the pandas data library, which is supported in a Python environment and Jupyter notebook.*
 
