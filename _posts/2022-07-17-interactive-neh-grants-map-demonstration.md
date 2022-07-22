@@ -2,7 +2,7 @@
 title: 'Wrangling Humanities Data: An Interactive Map of NEH Awards'
 date: 2022-07-17
 permalink: /posts/2022/interactive-neh-grants-map-demonstration/
-excerpt: 'This post continues the "Wrangling NEH Data" topic and demonstrates how to create interactive maps of NEH grant data from the 1960s.'
+excerpt: 'This post in the humanities data curation series demonstrates how to create interactive maps of NEH grant data from the 1960s.'
 header:
   overlay_image: "/assets/images/binary-1280w.jpg"
   overlay_filter: 0.3
@@ -21,12 +21,11 @@ tags:
 classes: wide
 ---
 
-This post continues with my occasional humanities data [series](tags/#humanities-data), a series that outlines a data curation project using publicly-available grant data provided by the National Endowment for the Humanities (NEH). This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and describes how to display
-the data in an interactive map on the web. 
+{% include toc_mapping_humanities_data.md %}
 
-*As in the [previous post]({% post_url 2021-01-22-mapping-neh-data-by-state-1960s %}), you can also download a [version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/03c-mapping-for-the-web.md) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
+*This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and describes how to display the data in an interactive map on the web. As in the [previous post]({% post_url 2021-01-22-mapping-neh-data-by-state-1960s %}), you can also download a [version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/03c-mapping-for-the-web.md) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
 
-# Mapping the data on an interactive, web-based map
+## Mapping the data on an interactive, web-based map
 
 Although my previous essays have explored various data-related topics, this post continues a theme of [mapping humanities data](/categories/#mapping-humanities). Previous installments walked through the process of preserving, transforming, and visualizing
 this data, which is a list of grants awarded by the NEH during the 1960s (the agency's first five years). 
