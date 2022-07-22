@@ -19,6 +19,8 @@ tags:
   - humanities data
 ---
 
+{% include toc_mapping_humanities_data.md %}
+
 Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain text data. The data in question comes from a larger project, which is pulling bibliographic data from a major citation database in CSV form, transforming the data and extracting certain elements (DOIs of publications), then feeding the information into Zotero to create a shared bibliography. At some point in summer 2019, the CSV files began to include new fields that contained line breaks and non-text characters, which broke my data workflow. In a project that I could previuosly do with the output from the database, I now needed to clean up the CSV with the formatting errors. At first, this was not too onerous - a few lines to delete - but after a month, this grew to hundreds of lines in a CSV with thousands of lines. I needed a way to quickly search for the error patterns and fix as many problems at once in a batch. I decided to explore regex as a solution. Around the same time, I taught a workshop that included an overview of regular expressions, and someone asked for a "real world" use case for regex that could illustrate how to implement regex in a functional way. This is the use case.
 
 ## Project background: the use case
