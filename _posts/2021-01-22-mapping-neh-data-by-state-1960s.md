@@ -21,11 +21,9 @@ tags:
 classes: wide
 ---
 
-This post continues with "Wrangling Humanities Data," which drafts a data curation project using publicly publicly-available grant data provided by the National Endowment for the Humanities (NEH). This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and uses some of the visualization tools provided by the geopandas library. 
+{% include toc_mapping_humanities_data.md %}
 
-As before, the process demonstrated below is also included in This process uses the geopandas data library, which is supported in a Python environment and Jupyter notebook.
-
-*As in the [previous post]({% post_url 2021-01-19-cleaning-transforming-data %}), you can also download a [Jupyter Notebook version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/03a-mapping-by-state.ipynb) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
+*This installment uses the [geospatial dataset previously created]({% post_url 2021-01-19-cleaning-transforming-data %}) and uses some of the visualization tools provided by the geopandas librarywhich is supported in a Python environment and Jupyter notebook. You can download [a Jupyter Notebook version of this post](https://github.com/morskyjezek/neh-grant-data-project/blob/main/03a-mapping-by-state.ipynb) from the GitHub repository along with all of the data discussed here. File references discussed below are included in the same [neh-grant-data-project repository](https://github.com/morskyjezek/neh-grant-data-project).*
 
 
 # Mapping State by State

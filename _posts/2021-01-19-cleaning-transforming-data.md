@@ -22,7 +22,9 @@ tags:
 classes: wide
 ---
 
-This post continues "Wrangling Humanities Data," a series that walks through the design of a data curation process using publicly-available grant data provided by the National Endowment for the Humanities (NEH). In this installment, I draw on some of the files, with which I [previously demonstrated the creation of an archival data package]({% post_url 2020-12-20-finding-describing-data %}), and explore the data, check on the quality and reliability of the data, and then use the data to create a geospatial dataset. The geospatial data will be the basis for a future post that will undertake more mapping activities based on the data. To do this analysis, I use the pandas data library, which is supported in a Python environment and Jupyter notebook.
+{% include toc_mapping_humanities_data.md %}
+
+*This installment draws on some of the files, with which I [previously demonstrated the creation of an archival data package]({% post_url 2020-12-20-finding-describing-data %}), and explore the data, check on the quality and reliability of the data, and then use the data to create a geospatial dataset. The geospatial data will be the basis for a future post that will undertake more mapping activities based on the data. To do this analysis, I use the pandas data library, which is supported in a Python environment and Jupyter notebook.*
 
 At a high level, the notebook (code and descriptions below) takes these steps:
 
