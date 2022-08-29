@@ -33,7 +33,8 @@ We will discuss a variety of topics related to the organization of information, 
 * description (naming, enumerating, and pointing out the salient features of the things being organized);
 * taxonomies and controlled vocabularies;
 * relationships and differences between ways that machines classify and humans classify;
-* various standards, structures, and rules that establish the special languages you will use as an information professional (aka, "metadata").
+* creation of models and standards that specify how things of particular types are described.
+* various standards, structures, and rules that establish the special languages you will use as an information professional.
 
 To start, please look over the [course syllabus]({{ page.syllabusURL }}) (it will remain available via Google Docs, though most of the course activity, including access to readings, will take place through the course Canvas site). 
 
