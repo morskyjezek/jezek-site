@@ -1,10 +1,11 @@
 ---
-title: "Organization of Information Resources"
+title: "Welcome to Organization of Information Resources!"
 collection: course_previews
 layout: single
 permalink: /course_previews/2022-organization-of-information/
 type: "Masters"
 venue: "University of Michigan School of Information"
+courseTitle: "Organization of Information Resources"
 courseURL: https://www.si.umich.edu/programs/courses/666
 courseLMSURL: https://canvas.it.umich.edu/
 syllabusURL: https://docs.google.com/document/d/1Gurx576I0qi34JLGMT8E15Ku2mIH7D5g70SIvkzQxTM/edit?usp=sharing
@@ -19,9 +20,7 @@ header:
 share: false
 ---
 
-## Welcome to {{ page.title }}!
-
-You've probably arrived here because you're enrolled (or considering enrolling) in "Organization of Information Resources," a Master's-level course offered at the [{{ page.venue }}]({{ page.courseURL }}) in {{ page.term_offered }}! My name is [Jesse Johnston](/about/). I will be the instructor, and I'm looking forward to being your guide on this journey through various aspects of activity related to organizing and ordering information resources, whether those be paper books on a shelf, specimens in a museum, social media posts, or maybe even things in your kitchen. 
+You've probably arrived here because you're enrolled (or considering enrolling) in "{{ page.courseTitle }}," a Master's-level course offered at the [{{ page.venue }}]({{ page.courseURL }}) in {{ page.term_offered }}! My name is [Jesse Johnston](/about/). I will be the instructor, and I'm looking forward to being your guide on this journey through various aspects of activity related to organizing and ordering information resources, whether those be paper books on a shelf, specimens in a museum, social media posts, or maybe even things in your kitchen. 
 
 This course should be a critical step in your journey toward becoming, or an important stage in your continuing journey as, an information professional. The course has been designed with aspiring librarians, archivists, and curators in mind, but also should be useful for anyone working with taxonomy, classification, cataloging, description, and other information tasks. As Hope Olson wrote in the book _The Power to Name_, "naming information is the special business of librarians and other information professionals" (2002, 4). Olson was talking about the assignment of subject headings to library catalog records, which is something we'll talk about during the course, but in a broader sense, this quote suggests the importance of describing information in ways that are useful - in ways specific to specific people in specific times and places through particular systems of searching and accessing - and in ways that can be usefully found and managed (that is, organized and findable in a system). 
 
