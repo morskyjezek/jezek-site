@@ -29,10 +29,10 @@ We will discuss a variety of topics related to the organization of information, 
 * the social and cultural imperatives to organize, and the systems that we create to organize resources;
 * organizing as a fundamental aspect of information work;
 * the nature of the "information resources" that we are ordering and organizing;
-* classification (ways to describe, sort, and group together);
-* description (naming the things we are looking for);
+* classification (a systematic sorting and naming of resources into defined categories that facilitates the finding, control, or knowledge about things);
+* description (naming, enumerating, and pointing out the salient features of the things being organized);
+* taxonomies and controlled vocabularies;
 * relationships and differences between ways that machines classify and humans classify;
-* the importance of taxonomies and controlled vocabularies;
 * various standards, structures, and rules that establish the special languages you will use as an information professional (aka, "metadata").
 
 To start, please look over the [course syllabus]({{ page.syllabusURL }}) (it will remain available via Google Docs, though most of the course activity, including access to readings, will take place through the course Canvas site). 
