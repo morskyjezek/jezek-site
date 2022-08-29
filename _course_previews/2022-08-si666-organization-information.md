@@ -15,7 +15,8 @@ header:
   video:
     id: Y1O5Cszu00E
     provider: youtube
-share: true
+  teaser: assets/images/open-books-th.jpg
+share: false
 ---
 
 ## Welcome to {{ page.title }}!
