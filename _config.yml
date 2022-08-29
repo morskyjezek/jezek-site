@@ -297,3 +297,4 @@ defaults:
       layout: single
       author_profile: false
       comment: false
+      share: false
