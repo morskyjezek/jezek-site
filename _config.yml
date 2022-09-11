@@ -248,6 +248,8 @@ collections:
   toolkits:
     output: true 
     permalink: /:collection/:path/
+  course_previews:
+    output: true
 
 # Defaults
 defaults:
@@ -287,3 +289,12 @@ defaults:
        author_profile: false
        share: true 
        comment: true 
+  # course_previews
+  - scope:
+      path: ""
+      type: course_previews
+    values:
+      layout: single
+      author_profile: false
+      comment: false
+      share: false
