@@ -15,7 +15,6 @@ I teach all of the core tools and softwares that the Carpentries features, inclu
 
 Here are the workshops I've taught: 
 
-* [2022 workshop at Michigan Technological Univesrity](TODO)
 * [2022 workshop at Maryland Special Libraries Association](https://amytrost.github.io/2022-07-18-SLA-MD/)
 * [2021 workshop at Lebanon, New Hampshire, Public Libraries](https://morskyjezek.github.io/2021-10-05-lelibrary-online/)
 * [2021 workshop at Ohio State University](https://morskyjezek.github.io/2021-05-24-osu-online/)
