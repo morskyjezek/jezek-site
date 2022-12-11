@@ -96,14 +96,9 @@ to include various other "feature" rows with different alignments
 {% endcomment %}
 
 
-<h1>About Me</h1>
-{% assign name = "about.md" %}
-  {% if name %}
-  {% assign about_content = site.pages | where: "name", "about.md" %}
-  {% for post in about_content %}
-    {{ post.content }}
-  {% endfor %}
-{% endif %}
+# About Me
+
+{% include content-about.html %}
 
 {% comment %}
 If desired, could insert similar research statement page here dynamically, too.
