@@ -10,7 +10,7 @@ header:
   image_description: "Image of a rainbow-styled bookshelf, showing rows of book spines with red, yellow, and orange colors."
   caption: "Photo by [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/s/photos/library)"
   teaser: /assets/images/rainbow-bookshelf-th.jpg
-  og_image: /assets/images/rainbow-bookshelf-th.jpg"
+  og_image: /assets/images/rainbow-bookshelf-th.jpg
 categories: 
   - archives
 tags:
