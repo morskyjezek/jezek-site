@@ -87,10 +87,10 @@ find _posts -type f -name '202[012]-[01]*.md' -exec sed -i '' -E 's/(include ).*
 
 The above illustrates some of the power of the `find` command. Here it searches for each of the markdown files with a name meeting the specific search parameters, then the `-exec` option runs the sed command with the regular expression created above.
 
-> Aside: note the `find` uses what looks like regex to search for certain files. While similar, this is an example of a "file expansion" search also konwn as "globbing," which approach pattern matching similar to regex but specific to searching file paths (see [Globbing](https://tldp.org/LDP/abs/html/globbingref.html)). To find posts that don't inlude ones posted in August, for example, try the `find` command:
+> Aside: This `find` construction uses what looks like a regular expression to search for certain files, but in fact this a different sort of pattern matching. While similar to regex, this is an example of a "file expansion" search also known as "globbing," which approach pattern matching similar to regex but specific to searching file paths (see [Globbing](https://tldp.org/LDP/abs/html/globbingref.html)). To use a regular expression in find, the Zshell uses the `-regex` option. While a more limited pattern matching option, globbing can do a lot. For example, to find posts that don't inlude ones posted in August, try the `find` command:
 > 
 > ```
-> find _posts -type f -name '202[012]-[01][01234567]*'
+> find _posts -type f -name '202[012]-[01]-[01234567]*'
 > ```
 
 So to sum up: Using this one line of commands, developed piece by piece, I quickly updated all of the include statements for all of the posts on the site.
