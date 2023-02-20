@@ -1,5 +1,5 @@
 ---
-title: 'Assessing Digitizing Hidden Collections: Amplifying Unheard Voices'
+title: 'Evaluating Equity and Inclusion in Cultural Heritage Grantmaking'
 date: 2023-02-20
 permalink: /posts/2023/dhc-assessment-published/
 excerpt: 'Our assessment of the Digitizing Hidden Collections: Amplifying Unheard Voices program is now available from CLIR.'
