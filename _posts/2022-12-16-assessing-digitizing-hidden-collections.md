@@ -19,6 +19,8 @@ tags:
   - grants
   - humanities
   - digitization
+classes:
+  - wide
 ---
 
 I'm excited to announce that, after a year of consulting with the [Council on Library and Information Resoruces](https://www.clir.org/) to assess their implementation of a major revision of [Digitizing Hidden Collections](https://www.clir.org/hiddencollections/), [Ricky Punzalan](https://www.rpunzalan.com/) and I will be publishing our final report. We have just completed final copyedits and the report will be available from CLIR in January 2023. We have presented this work publicly already, including in a presentation at the 2022 Digital Library Federation/Hidden Collections Symposium in Baltimore, Maryland ([slides here](https://docs.google.com/presentation/d/1Hw-ghVv9gvhjovL5a_0mkQ7ZBQcyH6Ot7fhSr-sTpgw/edit?usp=sharing)), and the draft of the report has been [available for public comment](https://bit.ly/dhcauv-assessment-comments) since October. Now, the complete, final, edited report is working its way to press. The following excerpts come from the report draft.  
