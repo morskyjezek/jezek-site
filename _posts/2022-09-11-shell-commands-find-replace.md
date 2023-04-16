@@ -1,7 +1,7 @@
 ---
 title: 'Find and replace data in the shell'
 date: 2022-09-11
-excerpt: 'Using shell tools to quickly find and replace text data. This demonstration uses regular expressions and find, grep, and sed tools.'
+excerpt: 'Use shell tools to quickly find and replace text data. This post demonstrates regular expressions with find, grep, and sed command line tools.'
 header:
   image: "/assets/images/code-colors-1280w.jpg" # this required to display custom twitter card image for the post, but does it override the hero image (overlay_image)?
   overlay_image: "/assets/images/code-colors-1280w.jpg"
