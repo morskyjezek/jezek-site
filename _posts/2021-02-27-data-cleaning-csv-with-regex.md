@@ -1,6 +1,7 @@
 ---
 title: 'Wrangling Humanities Data: Using Regex to Clean a CSV'
 date: 2021-02-27
+last_modified_at: 2023-04-16
 permalink: /posts/2021/data-cleaning-csv-with-regex/
 excerpt: 'Have you heard of regular expressions before and wondered how to make use of them? This post is for someone who has asked this question. It assumes a basic understanding of "regex" and shows how to use a full-featured text editor to cleanup plain-text data.'
 header:
@@ -134,11 +135,20 @@ Finally, I use the CSVLint extension of VSCode, which looks for errors. There we
 
 ## Conclusion
 
-After this exercise, I can't say that regular expressions are my favorite tool. They are fussy and esoteric. It is not always clear why certain patterns match (obviously the computer knows, but it cna take a while to decrypt what is happening even if you are the person who wrote the expression), and the patterns often don't do quite what you think they will (note that I still had about 6 lines to fix by hand because of uncaught errors). That said, there is something fun in thinking through how the pattern will work, and whether it is going to match exactly the content that you want. 
+Regular expressions are fussy and esoteric. It 
+is not always clear why certain patterns match (obviously the computer 
+knows, but it can take a while to decrypt what is happening even if you 
+are the person who wrote the expression), and the patterns often don't do quite what you think they will (note that I still had about 6 lines to fix by hand because of uncaught errors). That said, there is something fun in thinking through how the pattern will work, and whether it is going to match exactly the content that you want. 
 
-That joy of finding and matching patterns is likely what programmers find appealing about the game of "regex golf". That's basically a riddle game where you have two groups of strings (say, the titles of _Star Trek_ and _Star Wars_ movies), then you try to create a pattern that matches all of the items in one list, but none of the ones in the other list. I'm not sure I would play the game, but after working through some "real world" examples, I can see the appeal (but also frustration) in that work. To end, here is an XKCD about regex golf (I had to read [the explanation](https://www.explainxkcd.com/wiki/index.php/1313:_Regex_Golf)): 
+Perhaps that joy of finding and matching patterns is likely what 
+some people find 
+appealing about the game of "regex golf". That's basically a riddle game where you have two groups of strings (say, the titles of _Star Trek_ and _Star Wars_ movies), then you try to create a pattern that matches all of the items in one list, but none of the ones in the other list. I'm not sure I would play the game, but after working through some "real world" examples, I can see the appeal (but also frustration) in that work. To end, here is an XKCD about regex golf (I had to read [the explanation](https://www.explainxkcd.com/wiki/index.php/1313:_Regex_Golf)): 
 
 ![png](https://imgs.xkcd.com/comics/regex_golf.png "A comic strip from XKCD that illustrates the game of 'RegEx Golf'.")
+
+I am not likely to choose this approach to cleaning up a CSV file in 
+future. Instead, I would use a tool specialized for CSV as a format. 
+Nonetheless, this was a good way to practice with regular expressions.
 
 ## Resources
 
