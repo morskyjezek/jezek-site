@@ -18,8 +18,6 @@ tags:
   - libraries
   - twitter
   - memes
-classes:
-  - wide
 ---
 
 The activities of building, maintaining, curating, and providing access to collections, mostly of books but many other sorts of things as well,  is a core activity of libraries. The politics of these activities, although generally non-controversial, has recently become a lightning rod. Whether identifying as librarians, archivists, curators, or something else, many of us devote our work and passions to these activities, and many have received intensive, specialist, and technical training about how to develop collections, organize them, make them discoverable, and to share the ideas and usefulness of the knowledge and information that we believe comes from or is contained in these collections. Librarians, for example, not only collect and organize books, most are fierce advocates for freedoms of expression and the right to learn. This has been clearly stated and articulated by the [American Library Association's "Freedom to Read" statement](https://www.ala.org/advocacy/intfreedom/freedomreadstatement), which was first issued in 1953, which among other things expresses "the responsibility of publishers and librarians, as guardians of the people's freedom to read, to contest encroachments upon that freedom by individuals or groups seeking to impose their own standards or tastes upon the community at large; and by the government whenever it seeks to reduce or deny public access to public information." 
