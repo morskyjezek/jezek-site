@@ -3,7 +3,7 @@ layout: archive
 title: "Vita"
 permalink: /vita/
 author_profile: true
-as_of_date: 2022-04-29
+as_of_date: 2023-05-04
 redirect_from:
   - /resume
   - /cv/
@@ -32,6 +32,7 @@ redirect_from:
 <!--
            <h3>Academic Service</h3>
              <ul>
+                <li>Society of American Archivists, Committee on Graduate Archival Education, Member (appointed by SAA President Terry Baxter), 2022&ndash;2024</li>
                 <li>CarpentryCon@Home, <em>The Carpentries</em> Bi-Annual International Conference, Task Force Co-Chair and Web Subcommittee Liaison, 2022</li>
                 <li>Society of American Archivists, Archival Educators Section, Chairperson, 2022&ndash;2023.</li>
                 <li>Society for Ethnomusicology, Council, 2018&ndash;2021.</li>
@@ -57,6 +58,12 @@ redirect_from:
 * Music Librarian, Interlochen Center for the Arts, summer 2000
 
 ## Teaching
+
+### University of Michigan School of Information
+
+* Organization of Information Resources (SI 666, <a href="https://docs.google.com/document/d/1Gurx576I0qi34JLGMT8E15Ku2mIH7D5g70SIvkzQxTM/edit?usp=sharing">2022 syllabus</a>)
+* Fundamentals of Digital Curation (SI 667, <a href="https://docs.google.com/document/d/183FPpiVd-TNPsbeWG_MDVkiexV1AXowVxEc3ZCEvbhc/edit?usp=sharing">2023 syllabus</a>)
+* Networked Services for Libraries, Archives, and Museums (SI 676, <a href="https://docs.google.com/document/d/1PS3VHIehT6KjKQJZLvBQgGkMXx7TlFT4X8AOB3iZUdw/edit?usp=sharing">2022 syllabus</a>)
 
 ### Library Carpentry
 
@@ -94,7 +101,7 @@ redirect_from:
 * Beginning Javanese Gamelan Ensemble (teaching assistant)
 * Introduction to Developmental Psychology (teaching assistant)
 
-## Grants, Fellowships, and Awards
+## Fellowships and Awards
             
 * Independent Study, Research, and Development Award, National Endowment for the Humanities (to support research on sound archives), 2016
 * [Margaret Mann](https://web.archive.org/web/20140109205847/http://bentley.umich.edu/research/guides/libarch/mann.php) Award, University of Michigan School of Information (one of two recipients recognized for academic excellence and professional promise), 2012
