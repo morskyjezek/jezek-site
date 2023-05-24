@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 classes: wide
+as_of_date: 2023-05-24
 ---
 
 Below you will find a selective list of courses and workshops that I've taught over the years. 
@@ -11,3 +12,7 @@ Below you will find a selective list of courses and workshops that I've taught o
 {% for post in site.teaching reversed %}
   {% include teaching-single.html %}
 {% endfor %}
+
+{% if page.as_of_date %}
+ <blockquote>Updated {{ page.as_of_date | date: "%B %Y" }}</blockquote>
+{% endif %} 
