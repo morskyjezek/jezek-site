@@ -8,6 +8,7 @@ redirect_from:
   - /resume
   - /cv/
   - /cv
+classes: wide
 ---
 
 {% include base_path %}
