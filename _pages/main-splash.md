@@ -27,9 +27,10 @@ feature_row:
     url: /teaching/
     btn_class: btn--primary
 #    btn_label: "My Teaching"
-  - image_path: /assets/images/baroque-library-th.jpg #rainbow-bookshelf-th.jpg
+  - image_path: /assets/images/rainbow-bookshelf-th.jpg #baroque-library-th.jpg 
 #    image_caption: "Photo by [Valdemaras D.](https://unsplash.com/@deko_lt) on [Unsplash](https://unsplash.com/s/photos/library)"
-    alt: "Image of baroque library shelves and a ladder to access the upper shelves."
+#    alt: "Image of baroque library shelves and a ladder to access the upper shelves."
+    alt: "Image of a bookshelf showing books of different colors arranged in a rainbow order."
     title: "Writing"
     excerpt: "I write for academic and public audiences. Click here to see what I've written for the public sector and for academia, ranging from advice for grantseekers to humanities data curation, digital preservation, and ethnomusicology."
     url: /writing/
