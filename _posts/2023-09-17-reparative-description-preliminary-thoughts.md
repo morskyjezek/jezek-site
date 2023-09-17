@@ -17,6 +17,7 @@ tags:
   - python
   - tools
   - humanities data
+classes: wide
 ---
 
 Since the beginning of this year, I have been working with the project team for [ReConnect/ReCollect](https://www.reconnect-recollect.com/), a project supported by the University of Michigan to examine the legacy of its colonial collections from the Philippines. As the project puts it, they is " committed to developing models for culturally-responsive and historically-minded stewardship of the Philippine collections at the University of Michigan."  
