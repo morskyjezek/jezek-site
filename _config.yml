@@ -71,7 +71,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-#    tracking_id          : "G-4WHDPF727H" # GA3
+#    tracking_id          : "G-4WHDPF727H" # old for GA-3 up to May 2023
     tracking_id          : G-QFC0LDGJYY
     anonymize_ip         : # true, false (default)
 
