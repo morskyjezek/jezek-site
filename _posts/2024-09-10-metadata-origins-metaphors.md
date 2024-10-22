@@ -19,6 +19,7 @@ tags:
   - classification
   - humanities data
 classes: wide
+last_modified_at: 2024-10-22
 ---
 
 The word *metadata* combines the Greek prefix "meta-," in the sense of
@@ -126,6 +127,9 @@ translation.
 *Note: this post excerpts a draft of a larger essay that I am
 currently working on for an edited volume. Stay tuned for that as the
 canonical, extended version of the thoughts below.*
+
+**Update: the full draft is now posted, and comments or suggestions
+are welcome at the PubPub platform: [https://digital-preservation-a-critical-vocabulary.pubpub.org/pub/2ib9hvvg](https://digital-preservation-a-critical-vocabulary.pubpub.org/pub/2ib9hvvg).**
 
 #### Endnotes
 
