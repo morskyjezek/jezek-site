@@ -38,7 +38,7 @@ As more and more cultural materials are born digital or digitally reformatted, w
 As these knowledge environments become more ubiquitous, the current landscape for digital scholarship in the humanities has also matured, even developing into new “digital infrastructure” for some areas of humanities inquiry.[^3] The new generation of scholars and stewards must navigate these knowledge environments, learn how to learn about new tools, use the tools as part of a normal problem solving routine in the management of digital collections, and learn how these tools can be used to support core archival, digital curation, and digital preservation values such as provenance and authenticity and core functions, such as collection development, description, and access. No other graduate archival program has developed a similar suite of curricular modules and leading digital curation tools to support the Master’s-level education of new digital archivists and curators or has disseminated these materials as a reusable, national resource freely available to the educational community.
 
 Thus we're choosing "knowledge environments" as a more accessible, inclusive, and hospitable
-term for what others may call "cultural heritage institutions," "epistemic infrastructure," or "big L" librarainship.
+term for what others may call "cultural heritage institutions," "knowledge infrastructures," "epistemic infrastructure," or "big L" librarainship.
 
 #### Endnotes
 
