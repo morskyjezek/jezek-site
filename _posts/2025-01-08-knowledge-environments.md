@@ -2,7 +2,7 @@
 title: 'What do you mean Knowledge Environments?'
 date: 2025-01-08
 permalink: /posts/2024/knowledge-environments/
-excerpt: 'What are knowledge environments, and how are they related to cultural heritage institutions, libraries, and archives?'
+excerpt: 'What are knowledge environments, and how are they related to cultural heritage institutions like libraries and archives?'
 header:
   image: /assets/images/rainbow-bookshelf-1280w.jpg
   overlay_image: /assets/images/rainbow-bookshelf-1280w.jpg
@@ -18,6 +18,7 @@ tags:
   - libraries
   - digitization
 classes: wide
+last_modified_at: 2025-01-12
 ---
 
 Over the past few years, as a faculty member at the University of Michigan School of Information,
