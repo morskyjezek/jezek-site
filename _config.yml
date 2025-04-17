@@ -22,7 +22,7 @@ title               : "Jesse Johnston"
 title_separator     : "-"
 subtitle            : # site tagline that appears below site title in masthead
 name                : &name "Jesse A. Johnston"
-description         : &description "A portfolio site for Jesse A. Johnston. Jesse is a librarian and archivist, teacher, administrator, and music scholar with extensive experience in the public sector, academic research, and teaching."
+description         : &description "Jesse A. Johnston is a librarian, archivist, and music scholar with extensive experience in the public sector, academic research, and teaching."
 url                 : https://www.jesseajohnston.net
 baseurl             : "/"
 repository          : "morskyjezek/jezek-site"
