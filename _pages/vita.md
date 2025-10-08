@@ -33,7 +33,8 @@ classes: wide
 <!--
            <h3>Academic Service</h3>
              <ul>
-                <li>Society of American Archivists, Committee on Graduate Archival Education, Member (appointed by SAA President Terry Baxter), 2022&ndash;2024</li>
+                <li>BitCurator Consortium, Documentation & Training Committee, 2022&ndash;present.</li>
+                <li>Society of American Archivists, Committee on Graduate Archival Education, Member (appointed by SAA President Terry Baxter), 2022&ndash;2025</li>
                 <li>CarpentryCon@Home, <em>The Carpentries</em> Bi-Annual International Conference, Task Force Co-Chair and Web Subcommittee Liaison, 2022</li>
                 <li>Society of American Archivists, Archival Educators Section, Chairperson, 2022&ndash;2023.</li>
                 <li>Society for Ethnomusicology, Council, 2018&ndash;2021.</li>
@@ -46,17 +47,18 @@ classes: wide
 
 ## Professional Experience
 
-* Associate Director for Information Strategy and Research Development at Mcubed, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
-* Senior Librarian for Digital Collections, Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
-* Senior Program Officer, Division of Preservation and Access, National Endowment for the Humanities, 2013&ndash;2018
-* Archives Specialist, Center for Folklife and Cultural Heritage, Smithsonian Institution, 2012&ndash;2013
-* Library Assistant for Audio Digitization, Professor Kelly Askew, <a href="http://www.lsa.umich.edu/caas">Center for Afroamerican and African Studies</a>, University of Michigan, 2011&ndash;2012
-* Digital Preservation Intern, <a href="http://www2.matrix.msu.edu/">MATRIX Center for Humane Arts, Letters, & Sciences</a>, Michigan State University, 2011
-* Host and Engineer, various music and talk programming, <a href="http://wcbn.org/">WCBN FM&ndash;Ann Arbor</a>, 2007&ndash;2008
-* Editorial Assistant, <a href="http://www.englisheditorialservices.com/">English Editorial Services</a> (Brno, Czech Republic), 2006
-* Coordinator for Printed Programs, University of Michigan Music Programs Office, 2002&ndash;2003
-* Personnel Manager &amp; Music Librarian, University of Michigan Bands, 1998&ndash;2002
-* Music Librarian, Interlochen Center for the Arts, summer 2000
+- Secretary and Executive Directory, National Recording Preservation Foundation (appointed by Librarian of Congress Carla D. Hayden), 2024&ndash;present
+- Associate Director for Information Strategy and Research Development at Mcubed, University of Michigan Office of Research, University of Michigan, 2020&ndash;2021
+- Senior Librarian for Digital Collections, Digital Collections and Management Section, Library Services, Library of Congress, 2018&ndash;2019
+- Senior Program Officer, Division of Preservation and Access, National Endowment for the Humanities, 2013&ndash;2018
+- Archives Specialist, Center for Folklife and Cultural Heritage, Smithsonian Institution, 2012&ndash;2013
+- Library Assistant for Audio Digitization, Professor Kelly Askew, <a href="http://www.lsa.umich.edu/caas">Center for Afroamerican and African Studies</a>, University of Michigan, 2011&ndash;2012
+- Digital Preservation Intern, <a href="http://www2.matrix.msu.edu/">MATRIX Center for Humane Arts, Letters, & Sciences</a>, Michigan State University, 2011
+- Host and Engineer, various music and talk programming, <a href="http://wcbn.org/">WCBN FM&ndash;Ann Arbor</a>, 2007&ndash;2008
+- Editorial Assistant, <a href="http://www.englisheditorialservices.com/">English Editorial Services</a> (Brno, Czech Republic), 2006
+- Coordinator for Printed Programs, University of Michigan Music Programs Office, 2002&ndash;2003
+- Personnel Manager &amp; Music Librarian, University of Michigan Bands, 1998&ndash;2002
+- Music Librarian, Interlochen Center for the Arts, summer 2000
 
 ## Teaching
 
